@@ -1,11 +1,39 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Blog de moi'
+title = 'Le blog de Vivi Sensei'
+contentDir = "content"
+theme = 'm10c'
 
-[module]
-    [[module.imports]]
-        path = "github.com/colinwilson/lotusdocs"
-        disable = false
-    [[module.imports]]
-        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
-        disable = false
+[params]
+    author = "Virginie Pageaud"
+    description = "Recueil de sketchnotes par Virginie Pageaud (Casavecchia)"
+
+[[params.social]]
+    icon = "github"
+    name = "My Github"
+    url = "https://github.com/Fairy-wen"
+[[params.social]]
+    icon = "twitter"
+    name = "Twitter/X"
+    url = "https://twitter.com/La_Fee_Dragee"
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/"
+        weight = 2
+    [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 20
+    [[menu.main]]
+        identifier = "about"
+        name = "A propos"
+        url = "/about/"
+        weight = 30

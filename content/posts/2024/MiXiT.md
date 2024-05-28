@@ -1,8 +1,8 @@
-+++
-title = 'MiXiT'
-date = 2024-05-28T23:59:16+02:00
-draft = true
-+++
+---
+title: 'MiXiT'
+date: 2024-05-28T23:59:16+02:00
+draft: false
+---
 
 # MiXiT, 25 et 26 avril 2024 - Villeurbanne, France
 

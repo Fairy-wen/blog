@@ -4,7 +4,9 @@ toc = false
 
 showReadingTime = true
 
-timeout = 60
+author = "Virginie Pageaud"
+description = "Recueil de sketchnotes par Virginie Pageaud (Casavecchia)"
+contentTypeName = "posts"
 
 [header]
     logo = "logo.svg"

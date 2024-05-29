@@ -3,10 +3,7 @@ title = 'Le blog de Vivi Sensei'
 contentDir = "content"
 theme = 'tailwind'
 
-[params]
-    author = "Virginie Pageaud"
-    description = "Recueil de sketchnotes par Virginie Pageaud (Casavecchia)"
-    contentTypeName = "posts"
+timeout = 60
 
 [menu]
     [[menu.main]]

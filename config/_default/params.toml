@@ -1,0 +1,40 @@
+# Show table of contents at the top of your posts (defaults to false)
+# Alternatively, add this param to post front matter for specific posts
+toc = false
+
+showReadingTime = true
+
+[header]
+    logo = "logo.svg"
+    sticky = false
+
+[social_media]
+    [[social_media.items]]
+        enabled = false
+        title = 'Facebook'
+        icon = 'brand-facebook'
+        link = 'https://www.facebook.com/'
+
+    [[social_media.items]]
+        enabled = true
+        title = 'Twitter'
+        icon = 'brand-x'
+        link = 'https://twitter.com/La_Fee_Dragee'
+
+    [[social_media.items]]
+        enabled = false
+        title = 'Instagram'
+        icon = 'brand-instagram'
+        link = 'https://www.instagram.com/'
+
+    [[social_media.items]]
+        enabled = true
+        title = 'LinkedIn'
+        icon = 'brand-linkedin'
+        link = 'https://www.linkedin.com//in/virginiecasavecchia/'
+
+    [[social_media.items]]
+        enabled = true
+        title = 'Github'
+        icon = 'brand-github'
+        link = 'https://github.com/Fairy-wen'

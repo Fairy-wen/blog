@@ -1,0 +1,36 @@
+baseURL = 'https://example.org/'
+title = 'Le blog de Vivi Sensei'
+contentDir = "content"
+theme = 'tailwind'
+
+[params]
+    author = "Virginie Pageaud"
+    description = "Recueil de sketchnotes par Virginie Pageaud (Casavecchia)"
+    contentTypeName = "posts"
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+        weight = 2
+    [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 20
+    [[menu.main]]
+        identifier = "about"
+        name = "A propos"
+        url = "/about/"
+        weight = 30
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"

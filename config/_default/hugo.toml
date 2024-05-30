@@ -2,6 +2,7 @@ baseURL = 'https://virginie-blog.pageaud.net/'
 title = 'Le blog de Vivi Sensei'
 contentDir = "content"
 theme = 'tailwind'
+image = 'banniere.png'
 
 paginate = 5
 languageCode = "fr"

@@ -1,6 +1,14 @@
++++
+title = 'Le camping des speakers 2023'
+date = 2023-06-18
+draft = false
+tags = ["conference", "sketchnotes"]
+image = "img/logo.png"
++++
+
 # Le camping des speakers 2023 - Baden, France
 
-Les 15 et 16 juin 2023 a eu lieu la deuxième édition du https://camping-speakers.fr/[Camping des Speakers] dans le golfe du Morbihan.
+Les 15 et 16 juin 2023 a eu lieu la deuxième édition du [Camping des Speakers](https://camping-speakers.fr/) dans le golfe du Morbihan.
 Il s'agit d'une conférence complètement atypique, mêlant sessions avec et sans slides, de 15 minutes pour les plus courtes à 45 minutes pour les plus longues, en intérieur ou en extérieur, en journée et également à la tombée de la nuit après le repas, le tout dans un camping de Baden.
 
 J'avais déjà eu l'occasion de participer au Camping des Speakers en tant que speaker lors de la première édition en 2022, qui marqua d'ailleurs ma toute première expérience en tant que speaker dans une conférence.

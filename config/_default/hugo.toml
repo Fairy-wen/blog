@@ -1,9 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://virginie-blog.pageaud.net/'
 title = 'Le blog de Vivi Sensei'
 contentDir = "content"
 theme = 'tailwind'
 
-timeout = 60
+paginate = 5
+languageCode = "fr"
+
+timeout = 300
 
 [menu]
     [[menu.main]]

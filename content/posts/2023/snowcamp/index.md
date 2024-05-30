@@ -1,10 +1,18 @@
++++
+title = 'SnowCamp 2023'
+date = 2023-02-05
+draft = false
+tags = ["conference", "sketchnotes"]
++++
+
 # SnowCamp, 26 & 27 janvier 2023 - Grenoble, France
 
-You will find slides of my talk "Quelques pistes pour soigner ses traces d'exécution" (_Some leads to improve your logs_), as well as my sketchnotes of others talks I saw.  
+Dans ce post, les slides de mon talk "Quelques pistes pour soigner ses traces d'exécution", ainsi que les sketchnotes que j'ai réalisées sur les talks auxquels j'ai assité.
+
 
 ## Quelques pistes pour soigner ses traces
 
-Slides of my talk are available [here](quelques_pistes_pour_soigner_ses_traces.pdf).
+Les slides de mon talk sont disponibles [juste ici](quelques_pistes_pour_soigner_ses_traces.pdf).
 
 ## Keynote - Ressussitons les ordinosaures
 
@@ -69,6 +77,6 @@ Intervenantes :
 ![Sketchnote 1 sur 2](Sketchnotes/revue_code_1-2.jpg)  
 ![Sketchnote 2 sur 2](Sketchnotes/revue_code_2-2.jpg)  
 
-## Find more...
+## Pour en apprendre davantage
 
-Find more content from this conference on [SnowCamp 2023's GitHub repository](https://github.com/snowcamp/snowcamp-2023-supports-sessions).
+Vous trouverez davantage de contenu sur le [repo GitHub du SnowCamp 2023](https://github.com/snowcamp/snowcamp-2023-supports-sessions).

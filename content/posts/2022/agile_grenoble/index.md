@@ -1,3 +1,10 @@
++++
+title = 'Agile Grenoble 2022'
+date = 2022-11-20
+draft = false
+tags = ["conference", "sketchnotes"]
++++
+
 # Agile Grenoble 2022 - Grenoble, France
 
 Find here all of my sketchnotes.

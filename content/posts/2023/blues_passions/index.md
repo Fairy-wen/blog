@@ -1,6 +1,12 @@
-# Cognac Blues Passions, 4 au 9 juillet 2023 - Cognac, France
++++
+title = 'Cognac Blues Passions 2023'
+date = 2023-04-15
+draft = false
+tags = ["musique", "festival"]
+image = "img/m.jpg"
++++
 
-_[Rédaction en cours]_
+# Cognac Blues Passions, 4 au 9 juillet 2023 - Cognac, France
 
 Le [Blues Passions](https://www.bluespassions.com/), c'est un peu une institution ici à Cognac, ville où j'ai grandi.
 Depuis 30 ans cette année, ce festival fondé par Michel Rolland devenu incontournable pour les locaux permet à tous de découvrir petits et grands noms du blues, grâce à de nombreux concerts gratuits et payants qui prennent place en ville.

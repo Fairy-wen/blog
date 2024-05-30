@@ -5,7 +5,7 @@ toc = false
 showReadingTime = true
 
 author = "Virginie Pageaud"
-description = "Recueil de sketchnotes par Virginie Pageaud (Casavecchia)"
+description = "Recueil de sketchnotes, billets tech et musique. "
 contentTypeName = "posts"
 
 [header]

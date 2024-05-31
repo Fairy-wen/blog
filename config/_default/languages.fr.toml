@@ -1,0 +1,26 @@
+languageCode = "fr"
+languageName = "Français"
+weight = 1
+title = "Le blog de Vivi Sensei"
+
+[params]
+  displayName = "FR"
+  isoCode = "fr"
+  rtl = false
+  dateFormat = "2 Jan 2006"
+  logo = "logo_blanc.png"
+  secondaryLogo = "logo_noir.png"
+  description = "Recueil de sketchnotes, billets tech et musique"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+   name = "Virginie Pageaud"
+#   image = "logo.png"
+#   headline = "I'm only human"
+   bio = "Couteau suisse de la tech depuis 2011."
+   links = [
+     { github = "https://github.com/Fairy-wen" },
+     { linkedin = "https://www.linkedin.com/in/virginiecasavecchia/" },
+     { x-twitter = "https://x.com/La_Fee_Dragee" },
+     { bluesky = "https://bsky.app/profile/la-fee-dragee.bsky.social" },
+   ]

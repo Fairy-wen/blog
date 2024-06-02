@@ -3,6 +3,7 @@ title = 'Agile Grenoble 2022'
 date = 2022-11-20T04:14:54-08:00
 draft = false
 tags = ["conference", "sketchnotes"]
+categories = ["tech"]
 +++
 
 # Au secours je n'ai plus de sachant dans l'équipe

@@ -11,29 +11,39 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-    name = 'Accueil'
-    pageRef = '/'
-    weight = 100
+  name = 'Accueil'
+  pageRef = '/'
+  weight = 100
 
 [[main]]
-    name = 'Articles'
-    pageRef = '/articles/'
-    weight = 200
+  name = "Parlons tech 💻"
+  pageRef = "categories/tech"
+  weight = 200
 
 [[main]]
-    identifier = 'about'
-    name = 'A propos de moi'
-    pageRef = '/about/'
-    weight = 300
+  name = "Notes de musique 🎶"
+  pageRef = "categories/musique"
+  weight = 300
+
+[[subnavigation]]
+  name = "Tous les articles"
+  pageRef = "articles"
+  weight = 10
+
+[[subnavigation]]
+  name = "Tous les tags"
+  pageRef = "tags"
+  weight = 20
+
+[[subnavigation]]
+  identifier = 'about'
+  name = 'A propos de moi'
+  pageRef = '/about/'
+  weight = 30
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
-[[footer]]
-  name = "Tous les tags"
-  pageRef = "tags"
-  weight = 10
 
 # [[footer]]
 #   name = "Categories"

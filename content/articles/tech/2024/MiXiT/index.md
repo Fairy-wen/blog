@@ -4,6 +4,7 @@ linkTitle = 'MiXiT 2024'
 date = 2024-05-06
 draft = false
 tags = ["conference", "sketchnotes"]
+categories = ["tech"]
 +++
 
 **_Des crêpes, du cœur, des crêpes et du cœur._**

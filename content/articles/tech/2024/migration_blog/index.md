@@ -3,6 +3,7 @@ title = 'Doctor Jekyll & Mister Hugo.'
 date = 2024-05-30
 draft = false
 tags = ["billet","blogging"]
+categories = ["tech"]
 +++
 
 Il y a 10 mois environ, je découvrais les [GitHub Pages](https://pages.github.com/) alors que je cherchais une façon de partager mes sketchnotes sur un site, plutôt qu'un simple repo GitHub.  

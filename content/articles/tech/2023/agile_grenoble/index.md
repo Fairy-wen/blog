@@ -3,6 +3,7 @@ title = 'Agile Grenoble 2023'
 date = 2023-12-11T04:14:54-08:00
 draft = false
 tags = ["conference", "sketchnotes"]
+categories = ["tech"]
 +++
 
 Agile Grenoble marque ma dernière participation à une conférence pour cette année 2023.  

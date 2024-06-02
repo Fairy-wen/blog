@@ -3,6 +3,7 @@ title = 'Le camping des speakers 2023'
 date = 2023-06-18
 draft = false
 tags = ["conference", "sketchnotes"]
+categories = ["tech"]
 +++
 
 Les 15 et 16 juin 2023 a eu lieu la deuxième édition du [Camping des Speakers](https://camping-speakers.fr/) dans le golfe du Morbihan.

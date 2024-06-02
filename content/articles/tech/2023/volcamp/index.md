@@ -3,6 +3,7 @@ title = 'VolCamp 2023'
 date = 2023-10-20
 draft = false
 tags = ["conference", "sketchnotes"]
+categories = ["tech"]
 +++
 
 En ce mois d'octobre 2023, me voilà partie de nouveau en tant qu'intervenante pour la conférence [Volcamp](https://www.volcamp.io/), à Clermont-Ferrand en Auvergne.  

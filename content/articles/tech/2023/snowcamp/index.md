@@ -3,6 +3,7 @@ title = 'SnowCamp 2023'
 date = 2023-02-05
 draft = false
 tags = ["conference", "sketchnotes"]
+categories = ["tech"]
 +++
 
 Dans ce post, les slides de mon talk "Quelques pistes pour soigner ses traces d'exécution", ainsi que les sketchnotes que j'ai réalisées sur les talks auxquels j'ai assisté.

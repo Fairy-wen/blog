@@ -3,6 +3,7 @@ title = 'Cognac Blues Passions'
 date = 2023-04-15
 draft = false
 tags = ["musique", "festival"]
+categories = ["musique"]
 +++
 
 Le [Blues Passions](https://www.bluespassions.com/), c'est un peu une institution ici à Cognac, ville où j'ai grandi en Charente.

@@ -1,6 +1,6 @@
 +++
 title = '🤘 Helldebert - Enfantillages 666'
-date = 2024-06-04
+date = 2024-06-28
 summary = 'De la musique metal pour les enfants et leurs parents'
 draft = false
 tags = ["vendredi musique"]

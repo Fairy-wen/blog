@@ -2,7 +2,7 @@
 title = 'Cognac Blues Passions'
 date = 2023-04-15
 draft = false
-tags = ["musique", "festival"]
+tags = ["festival"]
 categories = ["musique"]
 +++
 

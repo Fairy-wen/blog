@@ -5,6 +5,10 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+  
+  # Runs every friday at 6 o'clock AM to publish "vendredi musique" posts
+  schedule:
+    - cron: '00 06 * * 5'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

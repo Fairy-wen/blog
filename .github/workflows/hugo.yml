@@ -6,9 +6,9 @@ on:
   push:
     branches: ["main"]
   
-  # Runs every friday at 6 o'clock AM to publish "vendredi musique" posts
+  # Runs every friday at 5 o'clock AM UTC to publish "vendredi musique" posts
   schedule:
-    - cron: '00 06 * * 5'
+    - cron: '00 05 * * 5'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

@@ -79,7 +79,7 @@ En juin 2024 j'ai également commencé un projet d'application de gestion de rec
 
 ## 👀 Mes principaux critères de sélection et pourquoi
 
-Ayant difficilement vécu un licenciement économique en 2023 suite à un rachat d'entreprise, je suis particulièrement vigilante sur l'ambiance la taille des entreprises : je privilégie les PME où l'on me fera confiance, où l'équilibre vie pro/vie perso pourra être assuré (via le homeworking notamment), et dans lesquelles je saurai que je pourrai m'épanouir.  
+Ayant difficilement vécu un licenciement économique en 2023 suite à un rachat d'entreprise, je suis particulièrement vigilante sur l'ambiance et la taille des entreprises : je privilégie les PME où l'on me fera confiance, où l'équilibre vie pro/vie perso pourra être assuré (via le homeworking notamment), et dans lesquelles je saurai que je pourrai m'épanouir.  
 
 De nature très franche, je recherche la transparence de la part des entreprises et des personnes dirigeantes. Les faux-semblants, les arguments bidons et l'absence de communication très peu pour moi, j'ai déjà donné ! 
 

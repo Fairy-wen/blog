@@ -13,7 +13,8 @@ J'évolue dans l'industrie de la "tech" depuis 2011 dans le développement, le d
 Je suis passionnée par l'accompagnement et la résolution de problèmes techniques complexes.  
 N'ayant jamais froid aux yeux, je cherche constamment à apprendre quelque chose de nouveau ; en autonomie, en conférences ou en formation plus traditionnelle.  
 
-J'aime également transmettre mes connaissances au quotidien, via l'entraide, le mentorat ou encore les conférences et ce blog.
+Je suis à l'écoute de postes stratégiques/pivots, où je pourrai aider les équipes à travailler ensemble, ou encore faciliter l'intégration de produits chez les clients.  
+On parle donc de **Technical Account Manager**, **Relation Developer**, **Solution Evangelist**, **Product Owner**.
 
 ## 🤝 Valeurs importantes à mes yeux
 

@@ -41,6 +41,12 @@
   pageRef = '/about/'
   weight = 30
 
+[[subnavigation]]
+  identifier = 'hire_me'
+  name = 'Et si on bossait ensemble ?'
+  pageRef = '/hire_me/'
+  weight = 40
+
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.

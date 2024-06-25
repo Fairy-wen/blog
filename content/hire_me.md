@@ -10,7 +10,9 @@ Que vous soyez ici par simple curiosité ou que vous soyez du recrutement, voici
 
 J'évolue dans l'industrie de la "tech" depuis 2011 dans le développement, le déploiement, la qualification et l'exploitation de solutions logicielles.  
 
-Je suis passionnée par l'accompagnement et la résolution de problèmes techniques complexes.  
+**Mon cœur de métier** : faire l'**interface** entre les équipes de développement et le reste de l'écosystème (équipes client, business, utilisateurices...), à différents niveaux de projet et technicité.
+
+Je suis passionnée par l'**accompagnement** et la résolution de problèmes techniques **complexes**.  
 N'ayant jamais froid aux yeux, je cherche constamment à apprendre quelque chose de nouveau ; en autonomie, en conférences ou en formation plus traditionnelle.  
 
 Je suis à l'écoute de postes stratégiques/pivots, où je pourrai aider les équipes à travailler ensemble, ou encore faciliter l'intégration de produits chez les clients.  
@@ -25,7 +27,7 @@ _Solidarité, équité, adelphité._
 
 ## 👩‍💻 Mes domaines de prédilection technique
 
-Je suis particulièrement à l'aise sur les tâches plutôt DevOps telles que le déploiement et debug de solutions, la mise en place de chaînes d'intégration, l'automatisation.  
+Je suis particulièrement à l'aise sur les tâches plutôt DevOps telles que le déploiement et debug de solutions, la mise en place de chaînes d'intégration ou encore l'automatisation.  
 
 S'il faut citer des technos en particulier, on peut noter `OracleSQL`, `Ansible`, `Jenkins`, `RHEL`, `CentOS`, `Windows Server`.  
 Côté langages de programmation j'ai développé ou a minima tripatouillé `C/C++`, `C#`, `java`, `python`, `shell` et `batch`.  
@@ -38,6 +40,7 @@ Pour la rédaction documentaire, je sais utiliser au choix `Markdown`, `Asciidoc
 
 Dès demain je peux vous apporter un nouveau point de vue curieux et expérimenté sur vos problématiques, qu'elles soient de l'ordre du déploiement, de l'organisation d'équipe ou encore des méthodologies.  
 Par mon expérience en tant que responsable qualité, je peux également vous aider à mettre en place une politique de tests de vos solutions.  
+Enfin, je combine plusieurs types de compétences que l'on trouve rarement ensemble : de l'expérience de développement "classique", des compétences plus orientées DevOps et sécurité, une culture des tests, un très bon niveau de rédaction ainsi qu'une grande aisance relationnelle.
 
 ## 🫶 Ce que j'adore
 
@@ -73,17 +76,19 @@ The Witcher (tous supports confondus), The Legend of Zelda, Elder Scrolls, Docto
 ### 💻 Des Side-projects
 
 Afin d'aller vers de nouveaux horizons, j'aime bien réaliser quelques petits projets.  
-Il y a ce blog, qui d'ailleurs n'a pas toujours ressemblé à ça (voir mon article sur la [migration vers Hugo]({{< ref "articles/tech/2024/migration_blog/index.md" >}} "Migration Hugo").  
+Il y a ce blog, qui d'ailleurs n'a pas toujours ressemblé à ça (voir mon article sur la [migration vers Hugo]({{< ref "articles/tech/2024/migration_blog/index.md" >}} "Migration Hugo")).  
 
 En juin 2024 j'ai également commencé un projet d'application de gestion de recettes de cuisine, armée de ChatGPT, en utilisant `Docker`, `Node.js` + `ExpressJS`, `PostgreSQL` et `redis` afin de me familiariser avec ces outils et langages largement utilisés.
 
 ## 👀 Mes principaux critères de sélection et pourquoi
 
-Ayant difficilement vécu un licenciement économique en 2023 suite à un rachat d'entreprise, je suis particulièrement vigilante sur l'ambiance et la taille des entreprises : je privilégie les PME où l'on me fera confiance, où l'équilibre vie pro/vie perso pourra être assuré (via le homeworking notamment), et dans lesquelles je saurai que je pourrai m'épanouir.  
+Ayant difficilement vécu un licenciement économique en 2023 suite à un rachat d'entreprise, je suis aujourd'hui vigilante sur les valeurs et la taille des entreprises.  
 
-De nature très franche, je recherche la transparence de la part des entreprises et des personnes dirigeantes. Les faux-semblants, les arguments bidons et l'absence de communication très peu pour moi, j'ai déjà donné ! 
+Les PME de moins de 200 personnes ont ma préférence, car j'y apprécie la grande cohésion qu'elles créent et nécessitent à la fois. Elles permettent également une certaine proximité avec les équipes de direction, facilitant la prise de décisions impactantes. C'est également un environnement favorisant la polyvalence et l'autonomie, deux traits qui me caractérisent et profitent à mon épanouissement.
 
-Si l'entreprise sponsorise ou est présente en conférences et meetups (ou est intéressée pour l'être), c'est également un plus, car il est important pour moi de pouvoir continuer à participer à des conférences, et le faire à titre professionnel serait un vrai bonus.
+De nature très franche, je recherche également de la transparence pour une collaboration saine et efficace. 
+
+**En bonus** : si l'entreprise sponsorise ou est présente en conférences et meetups (ou est intéressée pour l'être), c'est également un plus, car il est important pour moi de pouvoir continuer à participer à des conférences.
 
 ## 🤙 Alors, on s'appelle ?
 

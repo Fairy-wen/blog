@@ -1,12 +1,12 @@
 +++
-title = 'Hacker le TDAH'
+title = '[Devoxx France] Hacker le TDAH'
 date = 2024-06-18
 draft = false
 tags = ["conference","sketchnotes","neuro-atypie","TDAH"]
 categories = ["tech"]
 +++
 
-Il ya quelques jours, j'ai regardé le replay d'une conférence donnée lors du [Devoxx France 2024](https://www.devoxx.fr/) : Hacker le TDAH : Stratégies pour le développeur moderne.  
+Il y a quelques jours, j'ai regardé le replay d'une conférence donnée lors du [Devoxx France 2024](https://www.devoxx.fr/) : Hacker le TDAH : Stratégies pour le développeur moderne.  
 
 # La vidéo
 
@@ -19,7 +19,7 @@ Si vous souhaitez visionner le replay, le voici :
 
 Dans son talk, [Raphaël Lemaitre](https://bsky.app/profile/rlemaitre.com) commence par expliquer en partie ce qu'est le TDAH (Trouble du Déficit de l'Attention avec ou sans Hyperactivité), étape indispensable pour comprendre les stratégies proposées par la suite.  
 
-Étant déjà sensibilisée au TDAH en tant que maman d'enfant TDAH (et probablement TDAH moi-même, mais ça j'en parlerai peut-être une autre fois), la première partie comportait beaucoup des rappels pour moi (mais pas que !), et je trouve que les explications étaient assez claires, de même pour les exemples des difficultés que l'on peut rencontrer au quotidien avec cette forme de neuro-atypisme.  
+Étant déjà sensibilisée au TDAH, la première partie comportait beaucoup des rappels pour moi (mais pas que !), et je trouve que les explications étaient assez claires, de même pour les exemples des difficultés que l'on peut rencontrer au quotidien avec cette forme de neuro-atypisme.  
 
 Mais tout espoir n'est pas perdu, car il est possible d'une part de dompter le cerveau, d'autre part certaines particularités de fonctionnement peuvent être transformées en super-pouvoirs dès lors qu'on les a identifiées et que l'on dispose des bonnes méthodes.  
 

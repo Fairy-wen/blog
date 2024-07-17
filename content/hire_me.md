@@ -16,13 +16,13 @@ Je suis passionnée par l'**accompagnement** et la résolution de problèmes tec
 N'ayant jamais froid aux yeux, je cherche constamment à apprendre quelque chose de nouveau ; en autonomie, en conférences ou en formation plus traditionnelle.  
 
 Je suis à l'écoute de postes stratégiques/pivots, où je pourrai aider les équipes à travailler ensemble, ou encore faciliter l'intégration de produits chez les clients.  
-On parle donc de **Technical Account Manager**, **Relation Developer**, **Solution Evangelist**, **Product Owner**.
+On parle donc par exemple de rôles de **Technical Account Manager**, **Relation Developer**, **Solution Evangelist** ou encore **Product Owner**.
 
 ## 🤝 Valeurs importantes à mes yeux
 
 Les valeurs que je cherche à porter aujourd'hui sont l'entraide, le partage, l'écoute et le respect des autres.  
 Le chacun pour soi, c'est pas pour moi.  
-_Solidarité, équité, adelphité._  
+> _Solidarité, équité, adelphité._  
 
 
 ## 👩‍💻 Mes domaines de prédilection technique
@@ -38,14 +38,20 @@ Pour la rédaction documentaire, je sais utiliser au choix `Markdown`, `Asciidoc
 
 ## ➕ Ce que je peux vous apporter dès à présent
 
-Dès demain je peux vous apporter un nouveau point de vue curieux et expérimenté sur vos problématiques, qu'elles soient de l'ordre du déploiement, de l'organisation d'équipe ou encore des méthodologies.  
-Par mon expérience en tant que responsable qualité, je peux également vous aider à mettre en place une politique de tests de vos solutions.  
-Enfin, je combine plusieurs types de compétences que l'on trouve rarement ensemble : de l'expérience de développement "classique", des compétences plus orientées DevOps et sécurité, une culture des tests, un très bon niveau de rédaction ainsi qu'une grande aisance relationnelle.
+Vous trouverez avec moi une combinaison de compétences que l'on trouve rarement ensemble : le développement "classique", le Dev(Sec)Ops, une culture des tests, un très bon niveau de rédaction ainsi qu'une grande aisance relationnelle.
+
+C'est cette combinaison qui me permet aujourd'hui d'aider les équipes d'horizons divers (développement, commerce, client, exploitants) et à se <u>**comprendre** et **travailler** ensemble efficacement</u>.  
+
+Vous bénéficierez également d'un nouveau point de vue curieux et expérimenté sur vos problématiques, qu'elles soient de l'ordre du déploiement, de l'organisation d'équipe ou encore des méthodologies.  
+
+Par mon expérience en tant que responsable qualité, je vous aiderai également à mettre en place une politique de tests de vos solutions.  
+
 
 ## 🫶 Ce que j'adore
 
 J'adore résoudre des problèmes et des énigmes, c'est un vrai boost de dopamine pour moi.  
 Lorsque je me lance dans quelque chose de nouveau, j'adore retrouver ce sentiment de "ça y est ça marche !" (surtout quand ça n'a pas fonctionné du premier coup).  
+
 J'aime également particulièrement relever de nouveaux défis, "défricher" les sujets pour ensuite pouvoir passer la main sereinement aux autres équipes.
 
 ## 📖 Ce que j'aimerais découvrir
@@ -78,7 +84,10 @@ The Witcher (tous supports confondus), The Legend of Zelda, Elder Scrolls, Docto
 Afin d'aller vers de nouveaux horizons, j'aime bien réaliser quelques petits projets.  
 Il y a ce blog, qui d'ailleurs n'a pas toujours ressemblé à ça (voir mon article sur la [migration vers Hugo]({{< ref "articles/tech/2024/migration_blog/index.md" >}} "Migration Hugo")).  
 
-En juin 2024 j'ai également commencé un projet d'application de gestion de recettes de cuisine, armée de ChatGPT, en utilisant `Docker`, `Node.js` + `ExpressJS`, `PostgreSQL` et `redis` afin de me familiariser avec ces outils et langages largement utilisés.
+En juin 2024 j'ai également commencé un projet d'application de gestion de recettes de cuisine, armée de ChatGPT, en utilisant `Docker`, `Node.js` + `ExpressJS` et `PostgreSQL` afin de me familiariser avec ces outils et langages largement utilisés.  
+Ceci est bien évidemment mis à disposition sur GitHub : 
+{{< github repo="fairy-wen/app-recettes" >}}
+
 
 ## 👀 Mes principaux critères de sélection et pourquoi
 

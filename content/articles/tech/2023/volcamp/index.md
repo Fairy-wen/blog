@@ -1,6 +1,7 @@
 +++
 title = 'VolCamp 2023'
 date = 2023-10-20
+lastmod = 2024-09-27
 draft = false
 tags = ["conference", "sketchnotes"]
 categories = ["tech"]
@@ -144,7 +145,10 @@ C'est la deuxième fois que je donne ce talk en conférence, la première étant
 Je me suis sentie beaucoup moins stressée que la première fois, et j'ai trouvé que la présentation s'était bien passée.  
 J'espère qu'elle aura plu 🤞.  
 
-Les slides sont disponibles [sur ce lien]([Volcamp]Quelques%20pistes%20pour%20soigner%20ses%20traces.pdf).
+Les slides sont disponibles [sur ce lien]([Volcamp]Quelques%20pistes%20pour%20soigner%20ses%20traces.pdf).  
+La vidéo du talk est également disponible en ligne :
+
+{{< youtubeLite id="ZMCgGsP4E3k" label="Quelques pistes pour soigner ses traces d'exécution" >}}
 
 ## Pause déjeuner
 

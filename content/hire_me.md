@@ -15,8 +15,7 @@ J'évolue dans l'industrie de la "tech" depuis 2011 dans le développement, le d
 Je suis passionnée par l'**accompagnement** et la résolution de problèmes techniques **complexes**.  
 N'ayant jamais froid aux yeux, je cherche constamment à apprendre quelque chose de nouveau ; en autonomie, en conférences ou en formation plus traditionnelle.  
 
-Je suis à l'écoute de postes stratégiques/pivots, où je pourrai aider les équipes à travailler ensemble, ou encore faciliter l'intégration de produits chez les clients.  
-On parle donc par exemple de rôles de **Technical Account Manager**, **Relation Developer**, **Solution Evangelist** ou encore **Product Owner**.
+Je suis sans grande surprise aujourd'hui dans un rôle de **Customer Success Engineer**.
 
 ## 🤝 Valeurs importantes à mes yeux
 

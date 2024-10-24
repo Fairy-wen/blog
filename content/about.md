@@ -6,6 +6,7 @@ draft = false
 
 !["Bannière"](banniere.png)
 
-Dans la tech depuis 2011, d'abord en tant que développeuse, puis côté intégration/qualification et même support technique dans l'industrie du paiement sur autoroute.  
+Dans la tech depuis 2011, d'abord en tant que développeuse, puis côté intégration/qualification et enfin support technique dans l'industrie du paiement sur autoroute.  
+Je suis aujourd'hui Customer Success Engineer dans le domaine de la cyber-sécurité.
 
 Couteau suisse de la tech, touche à tout et curieuse, j'aime apprendre mais aussi partager mes connaissances.  

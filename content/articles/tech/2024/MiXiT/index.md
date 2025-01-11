@@ -221,7 +221,7 @@ Retrouvez également son [interview MiXiT On Air](https://www.youtube.com/live/r
 # Le mot de la fin
 
 Pour moi, la conférence a tenu ses promesses : j'y ai rencontré de nouvelles personnes très chouettes, j'ai appris quelques astuces pour lutter contre l'exclusion, découvert des choses que je ne soupçonnais même pas (principalement dans les keynotes), j'ai discuté TDAH de nos enfants avec d'autres parents...  
-J'ai été séduite par la façon dont les choses sont gérées : la loterie pour avoir une chance d'obtenir son billet, le soutien aux associations via les mixettes, les vrais alternatives végé/sans gluten/sans lactose pour les repas, le rythme de la conférence.  
+J'ai été séduite par la façon dont les choses sont gérées : la loterie pour avoir une chance d'obtenir son billet, le soutien aux associations via les mixettes, les vraies alternatives végé/sans gluten/sans lactose pour les repas, le rythme de la conférence.  
 J'ai trouvé cela très agréable et inspirant, j'espère revenir bientôt...
 
 Merci les orgas !

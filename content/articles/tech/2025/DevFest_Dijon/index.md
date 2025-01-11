@@ -14,24 +14,22 @@ categories = ["tech"]
 En décembre dernier, j'ai eu le plaisir d'intervenir pour la première fois au [DevFest Dijon](https://devfest.developers-group-dijon.fr/), une toute jeune conférence née en 2022.  
 La conférence s'est déroulée au sein de l'IUT de Dijon sur une seule journée le vendredi 6 décembre.  
 
-Mais comme souvent, nous speaker·ines avons eu le plaisir de profiter d'un _speaker diner_ organisé par l'équipe de la conférence, au [Bamagotchi](https://www.facebook.com/Bamagotchi.dijon/?locale=fr_FR), en plein cœur de la cité internationale de la Gastronomie et du Vin.  
-J'y ai passé une très bonne soirée, où j'ai pu retrouver des copains, des personnes croisées au [MiXiT](../../2024/MiXiT/), ou encore des duchesses.  
+Comme souvent, nous speaker·ines avons eu le plaisir de profiter d'un _speaker diner_ organisé par l'équipe de la conférence, au [Bamagotchi](https://www.facebook.com/Bamagotchi.dijon/?locale=fr_FR), en plein cœur de la cité internationale de la Gastronomie et du Vin.  
+J'y ai passé une très bonne soirée, où j'ai pu retrouver des copains, des personnes croisées au [MiXiT](../../2024/mixit/), ou encore des duchesses.  
 Ce fut également l'occasion de faire de nouvelles rencontres.  
 
-A notre arrivée le vendredi matin, l'équipe nous a régalé d'un super panier garni, voyez par vous-même :
+De plus, à notre arrivée à la conférence le lendemain matin, l'équipe nous a régalé d'un super panier garni, voyez par vous-même :
 
 ![Les goodies : du vin blanc, des anis, des chocolats, du pain d'épices, de la crème de cassis...](./img/goodies_speaker.jpg "Les goodies des speakers")
 
 Le vendredi, j'ai assisté à quelques conférences et donc pris des sketchnotes que je vous partage bien entendu ici.  
 Mais n'étant pas en grande forme (et donnant moi-même un talk), j'ai alterné conférences et pauses tout au long de la journée et n'ai donc assisté qu'à 4 sujets avant de devoir repartir.  
 
-Note :
-Les sketchnotes seront bientôt ajoutées à cet article
+# Quand le terminal dévore la UI : TUI pour tout le monde !  
+_Format conférence 50 minutes_  
 
-# Quand le terminal dévore la UI : TUI pour tout le monde !
+**[Thierry Chantier](https://noti.st/titimoby)**  
 
-**[Thierry Chantier](https://noti.st/titimoby)**
-_Format conférence 50 minutes_
 
 La journée commence avec _TitiMoby_, qui nous présente dans un nouveau talk le concept de Textual User Interface.  
 L'idée : disposer d'une interface utilisateurice à mi-chemin entre les lignes de commandes et une interface graphique "lourde" (comme par exemple la commande htop).  
@@ -39,7 +37,7 @@ L'idée : disposer d'une interface utilisateurice à mi-chemin entre les lignes 
 Cela s'avère utile quand par exemple on ne souhaite pas sortir de son terminal, où que l'on a uniquement accès à un terminal et pas d'interface graphique (entre autres).
 
 Il est donc possible, grâce à des bibliothèques spécifiques, de développer sa propre TUI, dans nos langages favoris.  
-Thierry nous donne des exemples en Python (avec [Textual](https://github.com/Textualize/textual)), [Go](https://github.com/charmbracelet/bubbletea) ou encore Rust (avec [Ratatui](https://ratatui.rs/)).  
+Thierry nous donne des exemples en Python (avec [Textual](https://github.com/Textualize/textual)), Go (avec [Bubble Tea](https://github.com/charmbracelet/bubbletea)) ou encore Rust (avec [Ratatui](https://ratatui.rs/)).  
 
 Et bien sûr, cela se poursuit par une démo, dans ces différents langages, lors de laquelle il nous montre comment il interagit avec son repo GitLab sans bouger de son terminal !
 

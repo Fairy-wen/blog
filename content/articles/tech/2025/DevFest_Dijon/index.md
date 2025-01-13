@@ -57,6 +57,39 @@ Malheureusement j'ai trouvé que le talk manquait de construction, de clarté, e
 
 ![Sketchnote Crypto Hardware](./img/crypto_hardware.jpg "Sketchnote Crypto Hardware")
 
+# N'ayez plus peur de vos fichiers de logiciels
+_Format conférence 50 minutes_
+
+> NB : Les slides sont disponibles [sur ce lien]([DevFest%202924]%20Comment%20ne%20plus%20avoir%20peur%20de%20vos%20fichiers%20de%20log.pdf).  
+
+L'heure de la pause déjeuner approche, il est alors temps pour moi de donner mon talk sur les fichiers de log.  
+Tout s'est très bien passé, les questions ont été intéressantes, dont les réponses sont loin d'être "binaires" je dirais.  
+
+Parmi les questions en voici 2 particulièrement intéressantes à mon sens :  
+
+**1. Une recommandation sur le délai de conservation des fichiers de logs ?**
+
+Je n'ai pas de recommandation particulière car cela **dépend** complètement **du contexte**.  
+En revanche voici quelques éléments à prendre en compte dans la réflexion :
+- l'espace de stockage disponible  
+- la quantité moyenne de log généré par équipement et par jour  
+- les délais légaux applicables suivant le domaine métier  
+- la "latence" client pour la remontée d'anomalies (si côté client ou exploitation par exemple, on sait que l'on peut avoir des anomalies remontées sur des traitements effectués plusieurs jours/semaines/mois auparavant)  
+
+**2. Que faire des appels au log debug une fois l'application stable ?**
+
+Ici aussi, cela **dépend du contexte** car en effet les logs de debug, même si ce niveau n'est pas actif à l'instant T, peut pénaliser les performances de l'application (en autres...).  
+D'un autre côté, c'est une source d'information à laquelle on a déjà réfléchi, et il serait dommage de tout jeter (surtout pour les interfaces avec des services externes).
+
+A mi-chemin, il est possible (au moins dans certains langages) de faire en sorte d'exclure de la compilation ces lignes de debug.  
+Ainsi on allège nos exécutables, on évite de pénaliser les performances à l'exécution, sans devoir supprimer du code utile.  
+Bien sûr, il y a probablement encore d'autres façons d'aborder ce sujet !
+
+Côté feedback, ils ont été très positifs et constructifs :  
+
+![Screenshot du feeback global : "Très enrichissant", "très bon orateur", "super intéressant"](./img/Feedback_1-2.png)
+![Screenshot des commentaires libres du feeback global : "affichage trop petit par moments"](./img/Feedback_1-2.png)
+
 # Faire simple, la clé de la durabilité ?
 _Format conférence 50 minutes_
 

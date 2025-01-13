@@ -1,6 +1,6 @@
 +++
 title = "Mon premier side-project"
-suumary = "Pourquoi je l'ai créé, qu'est-ce que j'en retire ?"
+summary = "Pourquoi je l'ai créé, qu'est-ce que j'en retire ?"
 date = 2024-10-01
 tags = ["billet", "développement"]
 categories = ["tech"]

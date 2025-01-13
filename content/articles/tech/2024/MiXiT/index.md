@@ -49,7 +49,7 @@ Mais malgré une grande diversité de profils parmi les "petites mains" de la te
 **[Cyrielle Eudeline](https://www.linkedin.com/in/cyrielle-eudeline-50608368/)**  
 **[Maria-eliza Paez](https://www.linkedin.com/in/maria-paez/)** _(qui n'a pas pu être présente)_  
 
-Après la sketchnote, je me suis empressée d'aller à l'atelier "Libère ta créature et embrasse tes bizarreries" que j'avais loupé en novembre à l'[Agile Grenoble](../../2023/agile_grenoble/README.md).  
+Après la sketchnote, je me suis empressée d'aller à l'atelier "Libère ta créature et embrasse tes bizarreries" que j'avais loupé en novembre à l'[Agile Grenoble](../../2023/agile_grenoble/).  
 
 L'idée de l'atelier et de nous familiariser avec quelques formes de neuro-atypie, en imaginant l'inconfort potentiel de situations professionnelles classiques.
 

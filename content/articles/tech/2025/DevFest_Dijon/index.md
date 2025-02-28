@@ -1,6 +1,5 @@
 +++
 title = "DevFest Dijon 2024"
-summary = "Pourquoi je l'ai créé, qu'est-ce que j'en retire ?"
 date = 2025-01-11
 draft = false
 tags = ["conference", "sketchnotes"]

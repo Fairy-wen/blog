@@ -39,11 +39,15 @@ Au programme nous avions :
 - *"LinkedIn Mastery, Être Bruce Wayne ou Batman : sous les projecteurs ou dans l’ombre"* par Jade Crotto-Miglietti  
 - *"Donjons et Pythons: la chevaleresse à la rescousse"* par Juliette Grillère  
 - *"La joie des deadlines"* par Eric Papazian  
-- *"Ensemble jusqu'en prod : comment nous avons transformé notre vision du 'terminé'"* par Thibault
+- *"Ensemble jusqu'en prod : comment nous avons transformé notre vision du 'terminé'"* par Thibault Rihet
 
+La captation de la soirée est disponible sur la chaîne Youtube de CraftsRecords par ici : https://www.youtube.com/playlist?list=PLIYXcdwc2smEPm2cWq14-qyPvm4qZ0Hig.  
 
 # Les jours-J
 
 ## Côté orga
+
+Assister à une conférence, c'est déjà assez prenant physiquement.  
+Faire partie de l'orga, encore plus ! Mais c'est aussi ce que j'aime dans l'organisation : bouger partout, être là pour les intervenant·es ansi que les participant·es
 
 ## Côté sketchnotes

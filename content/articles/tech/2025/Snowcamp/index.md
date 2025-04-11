@@ -73,25 +73,58 @@ Je n'avais pas fait de sketchnotes depuis un certain temps au moment du SnowCamp
 De plus, j'ai utilisé pour la première fois à cette occasion une [tablette numérique](https://shop.boox.com/products/noteair4c?gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm33kMT2Poyxynrjq48xgCeZ7bNG1oUY3XoPZo9bJUiJYUXGrN0JMlA4aAvuiEALw_wcB). Je n'avais pas encore toutes mes marques, ce qui a donc un peu ralenti mon rythme de prises de notes (surtout qu'en plus je gérais l'installation des speakers en question en même temps).  
 Je n'ai pas toujours pris de notes, notamment pendant le quiz "Questions pour un conteneur" d'Aurélie et :TODO: (difficile d'écrire et répondre au quiz sur le téléphone en même temps 🤣), ou encore pendant le talk de Marcy sur le techno-autoritarisme. 
 
-Voici le récap des talks auxquels j'ai assisté, ainsi que les notes prises pour l'occasion.
+Voici le récap des talks auxquels j'ai assisté, ainsi que les notes prises pour l'occasion. J'ai également mis les liens vers les slides et vidéos quand elles étaient dispos.  
+
+D'autres ressources sont disponibles sur le [repo GitHub du SnowCamp](https://github.com/snowcamp/snowcamp-supports-sessions/blob/main/2025.md).  
 
 ### Bâtissez des applications invincibles grâce à `TEMPORAL`
+_Format conférence 50 minutes_
+
+**[Vincent PRIMAULT](https://www.linkedin.com/in/vincent-primault/)**
+
+Vincent nous a présenté [`TEMPORAL`](https://temporal.io/), un orchestrateur de tâches permettant de développer des applications plus robustes.  
+Cet outil permet de décrire des activités (petites tâches) dans différents langages (`Go`, `TypeScript`, `Python`...), elles-mêmes intégrées à un workflow global qui peut être écrit dans un autre langage.  
+L'idée ici est de dissocier les responsabilités entre le code "qui fait" (l'activité), et le code qui orchestre (le workflow).
 
 ![Sketchnote "Bâtissez des applications invincibles grâce à `TEMPORAL`", 1 sur 2](./img/Temporal-1_2.png)  
-![Sketchnote "Bâtissez des applications invincibles grâce à `TEMPORAL`", 2 sur 2](./img/Temporal-2_2.png)
+![Sketchnote "Bâtissez des applications invincibles grâce à `TEMPORAL`", 2 sur 2](./img/Temporal-2_2.png)  
 
 ### Des tests performants grâce à un jeu de données réaliste
+_Format conférence 50 minutes_
+
+**[Martin CHORAINE](https://www.linkedin.com/in/martin-choraine/?originalSubdomain=fr)**
+
+Vaste sujet que celui des tests automatisés. Des tests unitaires aux tests d'endurance, en passant par l'intégration ou encore les tests aux limites, on n'exécute pas les mêmes suites de tests aux mêmes moments, et on n'utilise pas les mêmes données selon les cas !  
+Avec Martin nous avons vu quels moyens nous avons pour créer ces différents jeux de données, en fonction du besoin et des moyens.
 
 ![Sketchnote "Des tests performants grâce à un jeu de données réaliste", 1 sur 3](./img/Tests_performants-1_3.png)  
 ![Sketchnote "Des tests performants grâce à un jeu de données réaliste", 2 sur 3](./img/Tests_performants-2_3.png)  
 ![Sketchnote "Des tests performants grâce à un jeu de données réaliste", 3 sur 3](./img/Tests_performants-3_3.png)  
 
 ### Intégrons, faisons grandir et progresser les jeunes dev
-_Bonnes pratiques et retours d'expériences à l'intention des (vieux) devs_
+_Bonnes pratiques et retours d'expériences à l'intention des (vieux) devs_  
+_Format schuss 20 minutes_  
 
-<!-- Pas de sketchnote -->
+**[Alexandre Touret](https://blog.touret.info/)**
+
+Alexandre est venu rappeler aux équipes de développement ayant déjà un peu roulé leur bosse, quelques bonne pratiques pour accueillir et accompagner les jeunes développeurs et développeuses. L'occasion de rappeler que ce qui est devenu évident, habituel voire automatique pour nous, ne l'est pas du tout pour quelqu'un arrivant tout juste dans le milieu professionnel.  
+Intégrer une nouvelle entreprise n'est déjà pas évident pour quelqu'un d'expérimenté, chaque entreprise et même chaque équipe ayant ses propres habitudes, son propre contexte, son historique. Ca l'est d'autant moins pour quelqu'un qui n'a pas toute l'expérience du travail en entreprise.  
+
+
+Il n'y a pas de sketchnotes pour ce talk, en revanche vous pouvez retrouver :
+- [les slides](https://speakerdeck.com/alexandretouret/rvd24-integrons-faisons-grandir-et-progresser-les-jeunes-devs-bonnes-pratiques-et-retours-dexperiences-a-lintention-des-vieux-devs)  
+- [une captation vidéo](https://www.youtube.com/watch?v=V3jCZgEgUn8) effectuée à Riviera DEV 2024  
 
 ### La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS !
+_Format conférence 50 minutes_
+
+**[Benjamin GAKIC](https://www.linkedin.com/in/benjamingakic/?originalSubdomain=fr)**  
+**[Willy Malvault](https://www.linkedin.com/in/%F0%9F%9B%A1%EF%B8%8F-willy-malvault-aa584814/)**
+
+La résilience, c'est la capacité à surmonter un événement imprévu. C'est une faculté qui peut aussi bien s'appliquer au monde du vivant qu'au monde logiciel.  
+C'est bien de ce dernier dont nous ont parlé Benjamin et Willy, en nous décrivant plusieurs niveaux de résilience et de solutions, exemples à l'appui.  
+
+Les slides sont disponibles [ici](https://fr.slideshare.net/slideshow/la-resilience-c-est-l-affaire-de-tous-donc-l-affaire-de-personnes-snowcamp-pptx/275081309).
 
 ![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 1 sur 4](./img/Resilience-1_4.png)  
 ![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 2 sur 4](./img/Resilience-2_4.png)  
@@ -104,8 +137,19 @@ _Bonnes pratiques et retours d'expériences à l'intention des (vieux) devs_
 
 ### Dockerfile ou buildpack ? Mais au fait, c'est quoi buildpack ?
 
+![Sketchnote "Dockerfile ou buildpack ?", 1 sur 2](./img/Buildpack-1_2.png)  
+![Sketchnote "Dockerfile ou buildpack ?", 2 sur 2](./img/Buildpack-2_2.png)  
+
 ### Sablier : Démarrez et arrêtez automatiquement vos applications peu utilisées
 
-### Green full-stack lantern
+<!-- Pas de sketchnote -->
+
+### Deviens le Green "full-stack" Lantern
+
+![Sketchnote "Deviens le Green full-stack Lantern", 1 sur 3](./img/Green_Lantern-1_3.png)  
+![Sketchnote "Deviens le Green full-stack Lantern", 2 sur 3](./img/Green_Lantern-2_3.png)  
+![Sketchnote "Deviens le Green full-stack Lantern", 3 sur 3](./img/Green_Lantern-3_3.png)  
 
 ### Techno-autoritarisme et design persuasif
+
+<!-- Pas de sketchnote -->

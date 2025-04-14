@@ -77,8 +77,23 @@ Voici le récap des talks auxquels j'ai assisté, ainsi que les notes prises pou
 
 D'autres ressources sont disponibles sur le [repo GitHub du SnowCamp](https://github.com/snowcamp/snowcamp-supports-sessions/blob/main/2025.md).  
 
+### Keynote : Anatomie d'une backdoor : xz-utils
+_Format conférence 45 minutes_
+
+**[Quentin DUNAND](https://www.linkedin.com/in/quentindunand/)**
+**[Wassim AHMED-BELKACEM](https://www.linkedin.com/in/wassim-ahmed-belkacem-8937271a4/)**
+
+Pour la keynote d'ouverture de l'édition 2025, nous avons sélectionné le talk de Quentin et Wassim, qui raconte l'histoire de cette faille de sécurité mise en place petit à petit, sur des mois voire des années, au sein de la bibliothèque opensource xz-utils.  
+Une backdoor, ou porte dérobée, c'est un moyen d'accéder à un appareil à l'insu de son propriétaire, afin d'y exécuter un code malveillant, voire pire comme c'était le cas ici: en prendre le contrôle. 
+
+La faille `xz-utils` aurait pu compromettre toutes les machines accessibles en ssh (autant dire, un sacré paquet), sans la découverte inopinée de la supercherie par Andres FREUND, ingénieur allemand chez Microsoft. 
+
+Entre explications techniques et sociologiques, nous avons ici une histoire digne d'un film d'espionnage, très bien expliquée par oQuentin et Wassim.  
+
+Pas de skectnote pour cette keynote, mais les slides sont disponibles [par ici](https://github.com/ABWassim/SnowCamp-2025/blob/main/SnowCamp2025_XZ-Utils.pdf)
+
 ### Bâtissez des applications invincibles grâce à `TEMPORAL`
-_Format conférence 50 minutes_
+_Format conférence 45 minutes_
 
 **[Vincent PRIMAULT](https://www.linkedin.com/in/vincent-primault/)**
 
@@ -90,7 +105,7 @@ L'idée ici est de dissocier les responsabilités entre le code "qui fait" (l'ac
 ![Sketchnote "Bâtissez des applications invincibles grâce à `TEMPORAL`", 2 sur 2](./img/Temporal-2_2.png)  
 
 ### Des tests performants grâce à un jeu de données réaliste
-_Format conférence 50 minutes_
+_Format conférence 45 minutes_
 
 **[Martin CHORAINE](https://www.linkedin.com/in/martin-choraine/?originalSubdomain=fr)**
 
@@ -110,13 +125,12 @@ _Format schuss 20 minutes_
 Alexandre est venu rappeler aux équipes de développement ayant déjà un peu roulé leur bosse, quelques bonne pratiques pour accueillir et accompagner les jeunes développeurs et développeuses. L'occasion de rappeler que ce qui est devenu évident, habituel voire automatique pour nous, ne l'est pas du tout pour quelqu'un arrivant tout juste dans le milieu professionnel.  
 Intégrer une nouvelle entreprise n'est déjà pas évident pour quelqu'un d'expérimenté, chaque entreprise et même chaque équipe ayant ses propres habitudes, son propre contexte, son historique. Ca l'est d'autant moins pour quelqu'un qui n'a pas toute l'expérience du travail en entreprise.  
 
-
 Il n'y a pas de sketchnotes pour ce talk, en revanche vous pouvez retrouver :
 - [les slides](https://speakerdeck.com/alexandretouret/rvd24-integrons-faisons-grandir-et-progresser-les-jeunes-devs-bonnes-pratiques-et-retours-dexperiences-a-lintention-des-vieux-devs)  
 - [une captation vidéo](https://www.youtube.com/watch?v=V3jCZgEgUn8) effectuée à Riviera DEV 2024  
 
 ### La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS !
-_Format conférence 50 minutes_
+_Format conférence 45 minutes_
 
 **[Benjamin GAKIC](https://www.linkedin.com/in/benjamingakic/?originalSubdomain=fr)**  
 **[Willy Malvault](https://www.linkedin.com/in/%F0%9F%9B%A1%EF%B8%8F-willy-malvault-aa584814/)**
@@ -131,25 +145,64 @@ Les slides sont disponibles [ici](https://fr.slideshare.net/slideshow/la-resilie
 ![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 3 sur 4](./img/Resilience-3_4.png)  
 ![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 4 sur 4](./img/Resilience-4_4.png)  
 
-### Questions pour un conteneur
+### Questions pour un 
+_Format conférence 45 minutes_
 
-### Keynote Shirley
+**[Aurélie VACHE](https://www.linkedin.com/in/aurelievache/)**
+**[Shérine KHOURY](https://www.linkedin.com/in/sh%C3%A9rine-khoury-437758a)**
+
+Pour la dernière conférence à laquelle j'ai assisté jeudi, Aurélie et Shérine proposent dans un format quiz de tester et approfondir ses connaissances au sujet des conteneurs.  
+Etant pour ma part assez novice concernant la création et l'utilisation des conteneurs, j'étais loin du top 3 dans le classement !  
+J'ai trouvé le format original et intéressant pour casser un peu la routine des présentations pour "classiques".
+
+Pas de sketchnote ici, mais une captation vidéo effectuée lors de TouraineTech est disponible [par ici](https://www.youtube.com/watch?v=T_pOiul_T14)
+
+### Keynote : Débugguez votre salaire ! Mes stratégies gagnantes pour réussir sa négociation salariale !
+_Format conférence 45 minutes_
+
+**[Shirley ALMOSNI-CHICHE](https://www.linkedin.com/in/shirley-almosni-chiche/)**
+
+La keynote du vendredi porte comme à son habitude sur un sujet d'ouverture, moins tech que celui du jeudi.  
+Cette année nous avons invité Shirley qui a présenté ses stratégies pour débugger notre salaire, dans une ambiance one-woman-show que j'aime beaucoup.  
+
+Son talk a été capté plusieurs fois dans diverses conférences, dont [BDX I/O](https://www.youtube.com/watch?v=BKayyLc6YH8).
 
 ### Dockerfile ou buildpack ? Mais au fait, c'est quoi buildpack ?
+_Format conférence 45 minutes_
+
+**[Benjamin EINAUDI](https://www.linkedin.com/in/antechrestos/)**
+**[Loïc ROSSO](https://www.linkedin.com/in/loicrosso/)**
+
+Avec Benjamin et Loïc j'ai découvert qu'on pouvait décrire la construction d'une image `Docker` grâce à `buildpack`, plutôt qu'un `Dockerfile`.  
+J'ai trouvé ce sujet très intéressant, la modularité et "l'intelligence" offertes par `buildpack` ont quelques intérêts, notamment dans mon cas générer des images similaires pour des OS différents, ou avec une version différente d'une application en particulier, sans devoir recalculer tous les layers du reste de l'image.  
+
+Un outil à garder dans un coin de sa tête au cas où donc !
 
 ![Sketchnote "Dockerfile ou buildpack ?", 1 sur 2](./img/Buildpack-1_2.png)  
 ![Sketchnote "Dockerfile ou buildpack ?", 2 sur 2](./img/Buildpack-2_2.png)  
 
 ### Sablier : Démarrez et arrêtez automatiquement vos applications peu utilisées
+_Format schuss 20 minutes_
 
-<!-- Pas de sketchnote -->
+**[Léo GATELLIER](https://www.linkedin.com/in/leogatellier/)**
+
+Dans ce format de 20 minutes, Léo nous présente [`Sablier`](https://docs.sablier.com/api/overview), une API permettant d'arrêter de démarrer automatiquement des applications peu sollicitées, permettant de réduire l'utilisation de nos infrastructures.  
+
+Les ressources de son talk sont diponibles sur son [repo GitLab](https://gitlab.com/lgatellier/talk-sablier), une version pdf des slides est également disponible [par ici](https://lgatellier.gitlab.io/talk-sablier/).  
+
 
 ### Deviens le Green "full-stack" Lantern
+_Format conférence 50 minutes_
+
+**[Matthieu VINCENT](https://www.linkedin.com/in/matthieu-vincent-ab25064/)**
+**[Sylvain GOUGOUZIAN](https://www.linkedin.com/in/gouz/)**
 
 ![Sketchnote "Deviens le Green full-stack Lantern", 1 sur 3](./img/Green_Lantern-1_3.png)  
 ![Sketchnote "Deviens le Green full-stack Lantern", 2 sur 3](./img/Green_Lantern-2_3.png)  
 ![Sketchnote "Deviens le Green full-stack Lantern", 3 sur 3](./img/Green_Lantern-3_3.png)  
 
 ### Techno-autoritarisme et design persuasif
+_Format conférence 50 minutes_
 
+**[Marcy Ericka CHAROLLOIS]()**
 <!-- Pas de sketchnote -->

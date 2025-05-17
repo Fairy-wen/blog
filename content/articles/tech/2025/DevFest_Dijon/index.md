@@ -56,7 +56,7 @@ Malheureusement j'ai trouvé que le talk manquait de construction, de clarté, e
 
 ![Sketchnote Crypto Hardware](./img/crypto_hardware.jpg "Sketchnote Crypto Hardware")
 
-# N'ayez plus peur de vos fichiers de logiciels
+# N'ayez plus peur de vos fichiers de log
 _Format conférence 50 minutes_
 
 > NB : Les slides sont disponibles [sur ce lien]([DevFest%202924]%20Comment%20ne%20plus%20avoir%20peur%20de%20vos%20fichiers%20de%20log.pdf).  
@@ -105,7 +105,7 @@ On en revient d'une certaine façon selon moi aux principes de baby-steps : rép
 J'ai beaucoup apprécié sa présentation, notamment par son rythme posé sans être lent, ses exemples concrets et son discours inspirant sans être moralisateur. Et j'ai pu faire de très jolies sketchnotes !
 
 ![Sketchnote Simplicité 1 sur 2](./img/faire_simple_1-2.jpg)  
-![Sketchnote Simplicité 1 sur 2](./img/faire_simple_1-2.jpg)  
+![Sketchnote Simplicité 2 sur 2](./img/faire_simple_2-2.jpg)  
 
 
 # Comment merger sa PR en 10 secondes : REX mob code review

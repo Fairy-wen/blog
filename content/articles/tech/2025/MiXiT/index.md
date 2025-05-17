@@ -12,7 +12,7 @@ categories = ["tech"]
 
 En ce mois d'avril 2025 j'ai eu le plaisir d'assister pour la deuxième fois à la conférence [MiXiT](https://mixitconf.org/) à Lyon.  
 
-Venue une première fois [l'an passé](../../2024/MiXiT/), j'avais hâte de retrouver ce qui fait la particularité de cette conférence : les sujets parlant d'éthique, d'inclusivité, et de tout ce qui peut nous rendre le monde professionnel meilleur (et nous aussi par la même occasion), sans pour autant bouder les sujets tech.  
+Venue une première fois [l'an passé](../../2024/mixit/), j'avais hâte de retrouver ce qui fait la particularité de cette conférence : les sujets parlant d'éthique, d'inclusivité, et de tout ce qui peut nous rendre le monde professionnel meilleur (et nous aussi par la même occasion), sans pour autant bouder les sujets tech.  
 
 ## Un mot sur les keynotes
 
@@ -122,7 +122,7 @@ J'aurais aimé peut-être que les exemples de "détournement de concept/visuel" 
 ## Soirée MiXiT à l'Hôtel de Ville
 
 Cette année, c'est l'Hôtel de Ville de Lyon qui a accueilli la soirée MiXiT.  
-Bien que le lieu soit exceptionnel il faut le dire, j'ai été quelque peu déçue de la soirée par rapport à [celle de l'année dernière](../../2024/MiXiT/#soirée-à-la-chapelle-de-la-trinité) (et n'était pas la seule).  
+Bien que le lieu soit exceptionnel il faut le dire, j'ai été quelque peu déçue de la soirée par rapport à [celle de l'année dernière](../../2024/mixit/#soirée-à-la-chapelle-de-la-trinité) (et n'était pas la seule).  
 
 En effet, le lieu était extrêmement bruyant, et le catering quasi-inexistant. J'ai donc écourté la soirée pour aller manger, et me reposer. 
 

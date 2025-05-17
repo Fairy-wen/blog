@@ -21,6 +21,5 @@ title = "Le blog de Vivi Sensei"
   links = [
     { github = "https://github.com/Fairy-wen" },
     { linkedin = "https://www.linkedin.com/in/virginiecasavecchia/" },
-    { x-twitter = "https://x.com/La_Fee_Dragee" },
     { bluesky = "https://bsky.app/profile/la-fee-dragee.bsky.social" },
   ]

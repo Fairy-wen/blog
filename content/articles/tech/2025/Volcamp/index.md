@@ -43,7 +43,7 @@ Durant leur keynote, Estelle et Emilie nous décrivent les étapes de la créati
 ## Créer son propre Jeu de Rôle en Agentic AI & MCP
 _Format conférence 45 minutes_
 
-**[Tiffany Souterre](https://www.linkedin.com/in/tiffanysouterre/)**
+**[Tiffany Souterre](https://www.linkedin.com/in/tiffanysouterre/)**  
 **[Olivier Leplus](https://www.linkedin.com/in/olivierleplus/)**
 
 Suite à la keynote, je suis allée en apprendre un peu plus sur les IA avec le talk de Tiffany et Olivier, qui nous ont montré comment développer un assistant MJ pour ses parties de jeu de rôle (cas d'usage typique évoqué, l'équipe décide de prendre une direction non anticipée, et il faut vite créer des PNJ et leur background pour peupler la taverne).  

@@ -41,7 +41,7 @@ _Format conférence 45 minutes_
 
 Après la keynote, je suis allée m'intéresser au biomimétisme appliqué à la cybersécurité.  
 
-J'ai trouvé le sujet intéressant est bien construit, avec un bon équilibre entre description du vivant et application à un projet réel.  
+J'ai trouvé le sujet intéressant et bien construit, avec un bon équilibre entre description du vivant et application à un projet réel.  
 
 Un seul point m'a fait "tiquer", l'utilisation du terme _honeypot_ qui dans mes souvenirs de sécurité réseau/système désigne plutôt un leurre que l'on va volontairement laisser "vulnérable" pour détecter les comportements frauduleux. Dans l'exemple de Ludovic, il s'agit davantage d'identifier les cibles "favorites" pour les surveiller et protéger davantage.
 

@@ -134,7 +134,7 @@ Je n'ai pas pu assister à ce talk à cause du retard pris par la conférence.
 
 ## Conclusion
 
-Cette première venue à GeHack était très intéressante, mais aussi plus intense que les autres conférences auxquelles j'assiste habituellement (preuve en est le nombre réduit de sketchnotes).  
+Cette première venue à GreHack était très intéressante, mais aussi plus intense que les autres conférences auxquelles j'assiste habituellement (preuve en est le nombre réduit de sketchnotes).  
 N'étant pas moi-même dans les pentest ou le reverse-engineering, j'ai du fournir un effort supplémentaire pour suivre les talks. De plus, le fait qu'ils soient en anglais ajoute un peu de charge à tout cela.  
 
 J'ai apprécié la diversité des sujets, mais je ne saurai juger de leur qualité/pertinence d'un point de vue technique.  

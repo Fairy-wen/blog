@@ -55,7 +55,7 @@ Bien que la conférence se déroule sur 3 jours avec les universités du mercred
 
 ## Côté orga
 
-![Orgas à l'accueil](./img/accueil_orga.jpg)
+![Orgas à l'accueil](img/accueil_orga.jpg)
 
 Assister à une conférence, c'est déjà quelque chose qui me demande beaucoup d'énergie en général.  
 Faire partie de l'orga, encore plus ! Mais c'est aussi ce que j'aime dans l'organisation : être en mouvement, accompagner les intervenant·es et participant·es et apporter ma contribution à la tenue d'un événement qui a de l'importance à mes yeux.  
@@ -71,7 +71,7 @@ A la fin de cette journée, le "Meet&Greet" prend place : un temps d'échange en
 La journée du vendredi démarre un peu plus calmement en général, mais avec un grand besoin de café 😅 
 Elle s'enchaîne elle aussi assez vite, et s'achève par le traditionnel service de Chartreuse verte _(à consommer avec modération)_.  
 
-![Chartreuse au meet&greet](./img/chartreuse.jpg)
+![Chartreuse au meet&greet](img/chartreuse.jpg)
 
 ## Côté talks et sketchnotes
 
@@ -107,8 +107,8 @@ Vincent nous a présenté [`TEMPORAL`](https://temporal.io/), un orchestrateur d
 Cet outil permet de décrire des activités (petites tâches) dans différents langages (`Go`, `TypeScript`, `Python`...), elles-mêmes intégrées à un workflow global qui peut être écrit dans un autre langage.  
 L'idée ici est de dissocier les responsabilités entre le code "qui fait" (l'activité), et le code qui orchestre (le workflow).
 
-![Sketchnote "Bâtissez des applications invincibles grâce à `TEMPORAL`", 1 sur 2](./img/Temporal-1_2.png)  
-![Sketchnote "Bâtissez des applications invincibles grâce à `TEMPORAL`", 2 sur 2](./img/Temporal-2_2.png)  
+![Sketchnote "Bâtissez des applications invincibles grâce à `TEMPORAL`", 1 sur 2](img/Temporal-1_2.png)  
+![Sketchnote "Bâtissez des applications invincibles grâce à `TEMPORAL`", 2 sur 2](img/Temporal-2_2.png)  
 
 ### Des tests performants grâce à un jeu de données réaliste
 _Format conférence 45 minutes_
@@ -118,9 +118,9 @@ _Format conférence 45 minutes_
 Vaste sujet que celui des tests automatisés. Des tests unitaires aux tests d'endurance, en passant par l'intégration ou encore les tests aux limites, on n'exécute pas les mêmes suites de tests aux mêmes moments, et on n'utilise pas les mêmes données selon les cas !  
 Avec Martin nous avons vu quels moyens nous avons pour créer ces différents jeux de données, en fonction du besoin et des moyens.
 
-![Sketchnote "Des tests performants grâce à un jeu de données réaliste", 1 sur 3](./img/Tests_performants-1_3.png)  
-![Sketchnote "Des tests performants grâce à un jeu de données réaliste", 2 sur 3](./img/Tests_performants-2_3.png)  
-![Sketchnote "Des tests performants grâce à un jeu de données réaliste", 3 sur 3](./img/Tests_performants-3_3.png)  
+![Sketchnote "Des tests performants grâce à un jeu de données réaliste", 1 sur 3](img/Tests_performants-1_3.png)  
+![Sketchnote "Des tests performants grâce à un jeu de données réaliste", 2 sur 3](img/Tests_performants-2_3.png)  
+![Sketchnote "Des tests performants grâce à un jeu de données réaliste", 3 sur 3](img/Tests_performants-3_3.png)  
 
 ### Intégrons, faisons grandir et progresser les jeunes dev
 _Bonnes pratiques et retours d'expériences à l'intention des (vieux) devs_  
@@ -152,10 +152,10 @@ C'est bien de ce dernier dont nous ont parlé Benjamin et Willy, en nous décriv
 
 Les slides sont disponibles [ici](https://fr.slideshare.net/slideshow/la-resilience-c-est-l-affaire-de-tous-donc-l-affaire-de-personnes-snowcamp-pptx/275081309).
 
-![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 1 sur 4](./img/Resilience-1_4.png)  
-![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 2 sur 4](./img/Resilience-2_4.png)  
-![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 3 sur 4](./img/Resilience-3_4.png)  
-![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 4 sur 4](./img/Resilience-4_4.png)  
+![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 1 sur 4](img/Resilience-1_4.png)  
+![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 2 sur 4](img/Resilience-2_4.png)  
+![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 3 sur 4](img/Resilience-3_4.png)  
+![Sketchnote "La résilience, c'est l'affaire de tous, donc c'est l'affaire de PersonneS", 4 sur 4](img/Resilience-4_4.png)  
 
 ### Questions pour un conteneur
 _Format conférence 45 minutes_
@@ -190,8 +190,8 @@ J'ai trouvé ce sujet très intéressant, la modularité et "l'intelligence" off
 
 Un outil à garder dans un coin de sa tête au cas où donc !
 
-![Sketchnote "Dockerfile ou buildpack ?", 1 sur 2](./img/Buildpack-1_2.png)  
-![Sketchnote "Dockerfile ou buildpack ?", 2 sur 2](./img/Buildpack-2_2.png)  
+![Sketchnote "Dockerfile ou buildpack ?", 1 sur 2](img/Buildpack-1_2.png)  
+![Sketchnote "Dockerfile ou buildpack ?", 2 sur 2](img/Buildpack-2_2.png)  
 
 ### Sablier : Démarrez et arrêtez automatiquement vos applications peu utilisées
 _Format schuss 20 minutes_
@@ -214,9 +214,9 @@ L'escalade est sans fin, et depuis l'arrivée des IA génératives et les succes
 
 Un des leviers, à notre échelle de membres d'entreprises de l'IT, et d'avoir recours à _l'éco-conception_ de nos produits afin de réduire leur impact environnemental (et leur permettre de tourner sur des équipements plus "vieux"). Matthieu et Sylvain nous ont ainsi partagé plusieurs outils et bonnes pratiques pour intégrer cette éco-conception.
 
-![Sketchnote "Deviens le Green full-stack Lantern", 1 sur 3](./img/Green_Lantern-1_3.png)  
-![Sketchnote "Deviens le Green full-stack Lantern", 2 sur 3](./img/Green_Lantern-2_3.png)  
-![Sketchnote "Deviens le Green full-stack Lantern", 3 sur 3](./img/Green_Lantern-3_3.png)  
+![Sketchnote "Deviens le Green full-stack Lantern", 1 sur 3](img/Green_Lantern-1_3.png)  
+![Sketchnote "Deviens le Green full-stack Lantern", 2 sur 3](img/Green_Lantern-2_3.png)  
+![Sketchnote "Deviens le Green full-stack Lantern", 3 sur 3](img/Green_Lantern-3_3.png)  
 
 ### Techno-autoritarisme et design persuasif
 _Format conférence 45 minutes_

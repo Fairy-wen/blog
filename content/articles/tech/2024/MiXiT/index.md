@@ -42,7 +42,7 @@ Pour le côté histoire, la tech existe pour répondre à 3 besoins :
 Les dirigeants des entreprises de pointe dans la tech cherchent incessamment les talents rares pour gagner la course, et un facteur de réussite est également de multiplier les tentatives, et ne pas s'arrêter sur un échec.  
 Mais malgré une grande diversité de profils parmi les "petites mains" de la tech (genre, origine ethnique, sexualité), force est de constater que c'est beaucoup moins le cas lorsque l'on regarde les postes hauts placés des entreprises les plus florissantes du secteur. L'effort doit donc continuer pour que contrer cet effacement de diversité dans la hiérarchie.  
 
-![Sketchnote de la keynote "La communauté contre le système"](./img/communaute_contre_systeme.jpg "La communauté contre le système")
+![Sketchnote de la keynote "La communauté contre le système"](img/communaute_contre_systeme.jpg "La communauté contre le système")
 
 ## [Atelier] Libère ta créature et embrasse tes bizarreries
 
@@ -64,7 +64,7 @@ Le principe était très simple et efficace puisque les participant·e·s étaie
 
 Nous avions également à disposition une fiche explicative indiquant les "bizarreries" du profil qui nous était associé, comme celles sur l'image ci-dessous.
 
-![La liste des profils de l'atelier](./img/atelier_bizarreries_photo_detail_neuro.jpg "La liste des profils de l'atelier")
+![La liste des profils de l'atelier](img/atelier_bizarreries_photo_detail_neuro.jpg "La liste des profils de l'atelier")
 
 
 Puis chaque table a tiré au sort une situation courante de la vie professionnelle, et nous avons alors essayé de lister les difficultés et sources d'inconfort auxquelles notre profil allait devoir faire face.  
@@ -90,8 +90,8 @@ Mais la star des papilles à MiXiT ce sont les crêpes de Raph' ! Alors j'ai zap
 Bien repue, je me suis dirigée vers le talk de Camille et Lilou parler de syndicalisme et défense des droits des salariés dans une entreprise.  
 Le sujet me semble important et intéressant, en revanche je n'ai pas l'impression d'avoir appris beaucoup de choses (mais ce n'a pas été le cas de tout le monde), n'étant pas novice en la matière.  
 
-![La plus sociale des startup, sketchnote 1 sur 2](./img/start-up_sociale-1_2.jpg "La plus sociale des startup, sketchnote 1 sur 2")  
-![La plus sociale des startup, sketchnote 2 sur 2](./img/start-up_sociale-2_2.jpg "La plus sociale des startup, sketchnote 2 sur 2")
+![La plus sociale des startup, sketchnote 1 sur 2](img/start-up_sociale-1_2.jpg "La plus sociale des startup, sketchnote 1 sur 2")  
+![La plus sociale des startup, sketchnote 2 sur 2](img/start-up_sociale-2_2.jpg "La plus sociale des startup, sketchnote 2 sur 2")
 
 ## La communauté trans dans les produits numériques
 
@@ -109,7 +109,7 @@ A l'instar du remplacement des fameux "_nom de jeune fille/nom d'épouse_" qu'on
 
 Et pour finir, un argument que je trouve extrêmement pertinent et puissant, c'est qu'en laissant de la place pour les personnes atypiques (LGBT+, neuroatypiques, en situation de handicap...) dans nos produits, le reste de la population prendra conscience de leur existence.
 
-![La communauté trans dans nos produits numériques, sketchnote](./img/commu_trans.jpg "La communauté trans dans nos produits numériques, sketchnote")  
+![La communauté trans dans nos produits numériques, sketchnote](img/commu_trans.jpg "La communauté trans dans nos produits numériques, sketchnote")  
 
 ## Réunions en non-mixité choisie, un moteur pour féminiser sa boîte
 
@@ -132,8 +132,8 @@ Durant la soirée j'ai pu profiter d'une animation son et lumière basée sur le
 
 J'ai également échangé un moment avec Antoine Louisgrand, qui en a profité pour faire mon portrait que j'ai récupéré le lendemain ❤️.  
 
-![Photo de l'intérieur de la Chapelle de la trinité, assez coloré et chaleureux, avec des tables accueillant le buffet, et des personnes tout autour.](./img/chapelle_trinite.jpg "Chapelle de la trinité")  
-![Photo d'Antoine Louisgrand tenant le portrait qu'il a fait de moi. Le portrait est entouré de plusieurs citations issues de notre discussion.](./img/tonio_portrait.jpg "Antoine et le portrait qu'il a dessiné")
+![Photo de l'intérieur de la Chapelle de la trinité, assez coloré et chaleureux, avec des tables accueillant le buffet, et des personnes tout autour.](img/chapelle_trinite.jpg "Chapelle de la trinité")  
+![Photo d'Antoine Louisgrand tenant le portrait qu'il a fait de moi. Le portrait est entouré de plusieurs citations issues de notre discussion.](img/tonio_portrait.jpg "Antoine et le portrait qu'il a dessiné")
 
 # Vendredi 26 avril
 
@@ -157,9 +157,9 @@ En somme il s'agissait là d'une très bonne keynote, très instructive, que j'a
 
 La vidéo de la keynote : [sur Youtube](https://www.youtube.com/live/rgsI6DHJkWg?si=9y3r5qGwtyWrOejQ&t=831).  
 
-![Faut-il numériser ? Sketchnote 1 sur 3](./img/faut_il_numeriser-1_3.jpg "Faut-il numériser ? Sketchnote 1 sur 3")  
-![Faut-il numériser ? Sketchnote 2 sur 3](./img/faut_il_numeriser-2_3.jpg "Faut-il numériser ? Sketchnote 2 sur 3")  
-![Faut-il numériser ? Sketchnote 3 sur 3](./img/faut_il_numeriser-3_3.jpg "Faut-il numériser ? Sketchnote 3 sur 3")  
+![Faut-il numériser ? Sketchnote 1 sur 3](img/faut_il_numeriser-1_3.jpg "Faut-il numériser ? Sketchnote 1 sur 3")  
+![Faut-il numériser ? Sketchnote 2 sur 3](img/faut_il_numeriser-2_3.jpg "Faut-il numériser ? Sketchnote 2 sur 3")  
+![Faut-il numériser ? Sketchnote 3 sur 3](img/faut_il_numeriser-3_3.jpg "Faut-il numériser ? Sketchnote 3 sur 3")  
 
 ## [Apparté] Parlons sketchnotes
 
@@ -191,8 +191,8 @@ La conférence a été assez compliquée à suivre pour moi je dois l'avouer, ma
 
 La vidéo de la keynote [sur Youtube](https://www.youtube.com/live/rgsI6DHJkWg?si=SAWtwqHfSOlG3CMy&t=17523).  
 
-![La cybersurveillance d'Abou Dhabi, sketchnote 1 sur 2](./img/aboudhabi-1_2.jpg "La cybersurveillance d'Abou Dhabi, sketchnote 1 sur 2")  
-![La cybersurveillance d'Abou Dhabi, sketchnote 2 sur 2](./img/aboudhabi-2_2.jpg "La cybersurveillance d'Abou Dhabi, sketchnote 2 sur 2")  
+![La cybersurveillance d'Abou Dhabi, sketchnote 1 sur 2](img/aboudhabi-1_2.jpg "La cybersurveillance d'Abou Dhabi, sketchnote 1 sur 2")  
+![La cybersurveillance d'Abou Dhabi, sketchnote 2 sur 2](img/aboudhabi-2_2.jpg "La cybersurveillance d'Abou Dhabi, sketchnote 2 sur 2")  
 
 
 ## Atelier : Figma

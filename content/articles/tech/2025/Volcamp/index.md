@@ -35,10 +35,10 @@ C'est là qu'apparaît [Pix](https://pix.fr/), service public pour l'apprentissa
 
 Durant leur keynote, Estelle et Emilie nous décrivent les étapes de la création de ce programme, un bel exemple de travail collaboratif !  
 
-![Sketchnote de la Keynote du jeudi, 1 sur 4](./img/Volcamp-2025_1.png "Sketchnote de la Keynote du jeudi, 1 sur 4")  
-![Sketchnote de la Keynote du jeudi, 2 sur 4](./img/Volcamp-2025_2.png "Sketchnote de la Keynote du jeudi, 2 sur 4")  
-![Sketchnote de la Keynote du jeudi, 3 sur 4](./img/Volcamp-2025_3.png "Sketchnote de la Keynote du jeudi, 3 sur 4")  
-![Sketchnote de la Keynote du jeudi, 4 sur 4](./img/Volcamp-2025_4.png "Sketchnote de la Keynote du jeudi, 4 sur 4")  
+![Sketchnote de la Keynote du jeudi, 1 sur 4](img/Volcamp-2025_1.png "Sketchnote de la Keynote du jeudi, 1 sur 4")  
+![Sketchnote de la Keynote du jeudi, 2 sur 4](img/Volcamp-2025_2.png "Sketchnote de la Keynote du jeudi, 2 sur 4")  
+![Sketchnote de la Keynote du jeudi, 3 sur 4](img/Volcamp-2025_3.png "Sketchnote de la Keynote du jeudi, 3 sur 4")  
+![Sketchnote de la Keynote du jeudi, 4 sur 4](img/Volcamp-2025_4.png "Sketchnote de la Keynote du jeudi, 4 sur 4")  
 
 ## Créer son propre Jeu de Rôle en Agentic AI & MCP
 _Format conférence 45 minutes_
@@ -50,15 +50,15 @@ Suite à la keynote, je suis allée en apprendre un peu plus sur les IA avec le 
 J'ai bien apprécié ce talk, très accessible, et didactique 🎲  
 Et on n'oublie pas de bien documenter ses méthodes pour les rendre accessibles en MCP !
 
-![Sketchnote JDR Agentic 1, sur 2](./img/Volcamp-2025_5.png "Sketchnote JDR Agentic 1 sur 2")  
-![Sketchnote JDR Agentic 2, sur 2](./img/Volcamp-2025_6.png "Sketchnote JDR Agentic 2 sur 2")  
+![Sketchnote JDR Agentic 1, sur 2](img/Volcamp-2025_5.png "Sketchnote JDR Agentic 1 sur 2")  
+![Sketchnote JDR Agentic 2, sur 2](img/Volcamp-2025_6.png "Sketchnote JDR Agentic 2 sur 2")  
 
 ## Pause gourmande
 
 A la pause matinale, on reprend des forces avec les plateaux de fromages du coin 🧀.  
 Une bénédiction quand on fait un talk en début de pause déjeuner et qu'il va falloir attendre pour l'aligot et les saucisses du midi !  
 
-![Photo des plateaux de fromage](./img/fromages.jpg "Photo des plateaux de fromage")  
+![Photo des plateaux de fromage](img/fromages.jpg "Photo des plateaux de fromage")  
 
 
 ## Se réapproprier internet par les noms de domaines
@@ -71,8 +71,8 @@ Je suis un peu restée sur ma faim avec ce talk, d'autant qu'il n'a duré que 30
 Je n'ai pas eu l'impression d'avoir la réponse à la question, ou en tous cas pas de façon suffisamment pratico-pratique.  
 Mais le talk est un bon début, à retravailler de mon point de vue.
 
-![Sketchnote Internet par les noms de domaine, 1 sur 2](./img/Volcamp-2025_7.png "Sketchnote Internet par les noms de domaine 1 sur 2")  
-![Sketchnote Internet par les noms de domaine, 2 sur 2](./img/Volcamp-2025_8.png "Sketchnote Internet par les noms de domaine 2 sur 2")  
+![Sketchnote Internet par les noms de domaine, 1 sur 2](img/Volcamp-2025_7.png "Sketchnote Internet par les noms de domaine 1 sur 2")  
+![Sketchnote Internet par les noms de domaine, 2 sur 2](img/Volcamp-2025_8.png "Sketchnote Internet par les noms de domaine 2 sur 2")  
 
 ## T'as vu mes docs ? Je les fais en Typst !
 _Format lightening 15 minutes_
@@ -81,7 +81,7 @@ Avant de pouvoir profiter de l'aligot, j'ai présenté mon talk sur Typst depuis
 Je trouve qu'il s'est bien passé, j'ai eu des questions intéressantes qui me permettront de creuser le sujet et ajouter du contenu pour un éventuel format 20 minutes si l'occasion se présente.  
 Les slides sont disponibles [juste ici](./mes_docs_en_Typst.pdf).  
 
-![Photo du FabLab](./img/fablab.jpg "Photo du FabLab")  
+![Photo du FabLab](img/fablab.jpg "Photo du FabLab")  
 
 ## Le code dont vous êtes le héros ou l'héroïne, +5 en agilité, +10 en fun !
 _Format conférence 45 minutes_
@@ -91,11 +91,11 @@ _Format conférence 45 minutes_
 Après la pause déjeuner, je suis allée découvrir les principes et mécanismes de la gamification, qui permettent d'apporter un peu de dynamisme, de _team building_ et une pause ludique dans les équipes, sans pénaliser la productivité (au contraire !), ni prétendre résoudre d'éventuels problèmes organisationnels ou systémique (c'est toujours bon de le rappeler...).  
 Moi qui ait toujours été intéressée par la psychologie et les neurosciences, j'ai été très intéressée par le sujet. Il était de plus bien présenté, ce qui donne envie d'essayer à l'occasion !  
 
-![Sketchnote Le code dont vous êtes l'héroïne, 1 sur 3](./img/Volcamp-2025_9.png "Sketchnote Le code dont vous êtes l'héroïne, 1 sur 3")  
-![Sketchnote Le code dont vous êtes l'héroïne, 2 sur 3](./img/Volcamp-2025_10.png "Sketchnote Le code dont vous êtes l'héroïne, 2 sur 3")  
-![Sketchnote Le code dont vous êtes l'héroïne, 3 sur 3](./img/Volcamp-2025_11.png "Sketchnote Le code dont vous êtes l'héroïne, 3 sur 3")  
+![Sketchnote Le code dont vous êtes l'héroïne, 1 sur 3](img/Volcamp-2025_9.png "Sketchnote Le code dont vous êtes l'héroïne, 1 sur 3")  
+![Sketchnote Le code dont vous êtes l'héroïne, 2 sur 3](img/Volcamp-2025_10.png "Sketchnote Le code dont vous êtes l'héroïne, 2 sur 3")  
+![Sketchnote Le code dont vous êtes l'héroïne, 3 sur 3](img/Volcamp-2025_11.png "Sketchnote Le code dont vous êtes l'héroïne, 3 sur 3")  
 
-![Photo du livre de quêtes donnant des exemples de Gamification](./img/livre_quetes.jpg "Photo du livre de quêtes donnant des exemples de Gamification")
+![Photo du livre de quêtes donnant des exemples de Gamification](img/livre_quetes.jpg "Photo du livre de quêtes donnant des exemples de Gamification")
 
 ## 🎵 Faire une virée à deux, tous les deux sur les chemins 🎵
 _Format conférence 45 minutes_
@@ -117,10 +117,10 @@ Dernier sujet de la journée auquel j'ai assisté, un florilège d'incidents ren
 Les 45 minutes furent trop courtes, Jean-Yves avait beaucoup à nous raconter à ce sujet.  
 J'ai beaucoup apprécié la façon dont il a présenté les incidents, avec un grand naturel et toujours des explications sur comment la crise a été gérée, et les améliorations qui en ont découlé.  
 
-![Sketchnote Défaillances en téléradiologie, 1 sur 4](./img/Volcamp-2025_12.png "Sketchnote Défaillances en téléradiologie, 1 sur 4")  
-![Sketchnote Défaillances en téléradiologie, 2 sur 4](./img/Volcamp-2025_13.png "Sketchnote Défaillances en téléradiologie, 2 sur 4")  
-![Sketchnote Défaillances en téléradiologie, 3 sur 4](./img/Volcamp-2025_14.png "Sketchnote Défaillances en téléradiologie, 3 sur 4")  
-![Sketchnote Défaillances en téléradiologie, 4 sur 4](./img/Volcamp-2025_15.png "Sketchnote Défaillances en téléradiologie, 4 sur 4")  
+![Sketchnote Défaillances en téléradiologie, 1 sur 4](img/Volcamp-2025_12.png "Sketchnote Défaillances en téléradiologie, 1 sur 4")  
+![Sketchnote Défaillances en téléradiologie, 2 sur 4](img/Volcamp-2025_13.png "Sketchnote Défaillances en téléradiologie, 2 sur 4")  
+![Sketchnote Défaillances en téléradiologie, 3 sur 4](img/Volcamp-2025_14.png "Sketchnote Défaillances en téléradiologie, 3 sur 4")  
+![Sketchnote Défaillances en téléradiologie, 4 sur 4](img/Volcamp-2025_15.png "Sketchnote Défaillances en téléradiologie, 4 sur 4")  
 
 ## Soirée à _The Oval_
 

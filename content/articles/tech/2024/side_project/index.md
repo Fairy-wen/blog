@@ -36,7 +36,7 @@ Après quelques échanges de prompt, j'arrête mon choix sur une application de 
 
 L'ennui quand on veut commencer un projet avec plein de technos que l'on ne maîtrise pas dedans, c'est que ça prend pas mal de temps pour avoir la "coquille vide", à savoir dans mon cas une image `Docker` qui expose une page web dont les données sont stockées sur une base `PostgreSQL`. J'aurais pu commencer par lire l'ouvrage ["Understanding Docker in a visual way"](https://www.amazon.com/Understanding-Docker-visual-way-sketchnotes/dp/B0BT6ZXR1W) écrit et dessiné par [Aurélie Vache](https://x.com/aurelievache) me direz-vous, ou même regarder ses vidéos, mais c'est plus drôle de sauter à pieds joints dans le vif du sujet.
 
-![Un renard qui saute la tête la première dans la neige](./img/cute-fox-5-times.gif "Un renard qui saute la tête la première dans la neige")
+![Un renard qui saute la tête la première dans la neige](img/cute-fox-5-times.gif "Un renard qui saute la tête la première dans la neige")
 
 
 J'ai vais petit à petit, en créant d'abord le conteneur, puis la base de données, et les première briques `CRUD` (Create, Read, Update, Delete).

@@ -29,7 +29,7 @@ Nous avons eu des retours très positifs, et avons apprécié nous aussi propose
 Vous pouvez voir quelques photos sur [ce post Twitter](https://twitter.com/CampingSpeakers/status/1669278041216802817).
 
 Et notre super feedback !
-![Capture d'écran du retour open feedback.](./img/open-feedback.png)
+![Capture d'écran du retour open feedback.](img/open-feedback.png)
 
 ## Le guide du voyageur LGBTQIA+ 
 
@@ -54,7 +54,7 @@ Viennent ensuite la tablette d'argile (ne permettant pas d'écrire beaucoup d'in
 
 Sa conclusion, avec laquelle je suis plutôt d'accord, c'est qu'un nouvel usage ne vient pas obligatoirement remplacer les anciens : nous continuons de nous raconter des histoires oralement, nous continuons de lire des livres (papier ou sur tablette), il est fort probable qu'un outil comme ChatGPT viendra compléter l'éventail d'outils de transmission à notre portée.
 
-![Patrice de Saint Steban présentant son sujet devant le terrain de pétanque](./img/PXL_20230615_115457647.MP.jpg)
+![Patrice de Saint Steban présentant son sujet devant le terrain de pétanque](img/PXL_20230615_115457647.MP.jpg)
 
 ## Pour éviter le dirty recruiting, on ne laisse pas ses valeurs dans un coin
 
@@ -113,7 +113,7 @@ Le dernier rebondissement, c'est celui de l'an dernier, au Camping des speakers,
 Après la keynote, je suis allée découvrir de plus près le fonctionnement des imprimantes 3D, quelles différentes méthodes et matériaux existent, et m'émerveiller devant tout ce qu'il était possible de réaliser grâce à cet outil.
 Nous avons même pu observer en temps réel l'impression d'une petite pièce !
 
-![Animation gif d'une pièce en cours d'impression 3D](./img/PXL_20230616_085323274_exported_stabilized_1686905828978.gif)
+![Animation gif d'une pièce en cours d'impression 3D](img/PXL_20230616_085323274_exported_stabilized_1686905828978.gif)
 
 ## Programmons ensemble... une boîte de vitesse !
 
@@ -142,7 +142,7 @@ Je retiens notamment :
 * une posture droite et un visage souriant/ouvert pour susciter l'écoute de l'autre
 * l'intention, croire en son discours, nécessaire pour convaincre l'auditoire
 
-![Sylvain et Willy en pleine explication sur le terrain de pétanque](./img/PXL_20230616_123046039.MP.jpg)
+![Sylvain et Willy en pleine explication sur le terrain de pétanque](img/PXL_20230616_123046039.MP.jpg)
 
 # L'after, et la conclusion
 

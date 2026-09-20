@@ -19,7 +19,7 @@ Ce fut également l'occasion de faire de nouvelles rencontres.
 
 De plus, à notre arrivée à la conférence le lendemain matin, l'équipe nous a régalé d'un super panier garni, voyez par vous-même :
 
-![Les goodies : du vin blanc, des anis, des chocolats, du pain d'épices, de la crème de cassis...](./img/goodies_speaker.jpg "Les goodies des speakers")
+![Les goodies : du vin blanc, des anis, des chocolats, du pain d'épices, de la crème de cassis...](img/goodies_speaker.jpg "Les goodies des speakers")
 
 Le vendredi, j'ai assisté à quelques conférences et donc pris des sketchnotes que je vous partage bien entendu ici.  
 Mais n'étant pas en grande forme (et donnant moi-même un talk), j'ai alterné conférences et pauses tout au long de la journée et n'ai donc assisté qu'à 4 sujets avant de devoir repartir.  
@@ -40,8 +40,8 @@ Thierry nous donne des exemples en Python (avec [Textual](https://github.com/Tex
 
 Et bien sûr, cela se poursuit par une démo, dans ces différents langages, lors de laquelle il nous montre comment il interagit avec son repo GitLab sans bouger de son terminal !
 
-![Sketchnote TUI 1 sur 2](./img/TUI_1-2.jpg "Sketchnote TUI, 1 sur 2")  
-![Sketchnote TUI 2 sur 2](./img/TUI_2-2.jpg "Sketchnote TUI, 2 sur 2")  
+![Sketchnote TUI 1 sur 2](img/TUI_1-2.jpg "Sketchnote TUI, 1 sur 2")  
+![Sketchnote TUI 2 sur 2](img/TUI_2-2.jpg "Sketchnote TUI, 2 sur 2")  
 
 # La crypto Hardware - _Comment sécuriser nos devices ?_
 _Format short 20 minutes_
@@ -54,7 +54,7 @@ Partant du constat qu'il y a aujourd'hui beaucoup de failles dans le monde de l'
 
 Malheureusement j'ai trouvé que le talk manquait de construction, de clarté, et je pense qu'un format de 20 minutes est trop court pour aborder ce thème, mais le sujet me semble pertinent !
 
-![Sketchnote Crypto Hardware](./img/crypto_hardware.jpg "Sketchnote Crypto Hardware")
+![Sketchnote Crypto Hardware](img/crypto_hardware.jpg "Sketchnote Crypto Hardware")
 
 # N'ayez plus peur de vos fichiers de log
 _Format conférence 50 minutes_
@@ -86,8 +86,8 @@ Bien sûr, il y a probablement encore d'autres façons d'aborder ce sujet !
 
 Côté feedback, ils ont été très positifs et constructifs :  
 
-![Screenshot du feeback global : "Très enrichissant", "très bon orateur", "super intéressant"](./img/Feedback_1-2.png)
-![Screenshot des commentaires libres du feeback global : "affichage trop petit par moments"](./img/Feedback_1-2.png)
+![Screenshot du feeback global : "Très enrichissant", "très bon orateur", "super intéressant"](img/Feedback_1-2.png)
+![Screenshot des commentaires libres du feeback global : "affichage trop petit par moments"](img/Feedback_1-2.png)
 
 # Faire simple, la clé de la durabilité ?
 _Format conférence 50 minutes_
@@ -104,8 +104,8 @@ On en revient d'une certaine façon selon moi aux principes de baby-steps : rép
 
 J'ai beaucoup apprécié sa présentation, notamment par son rythme posé sans être lent, ses exemples concrets et son discours inspirant sans être moralisateur. Et j'ai pu faire de très jolies sketchnotes !
 
-![Sketchnote Simplicité 1 sur 2](./img/faire_simple_1-2.jpg)  
-![Sketchnote Simplicité 2 sur 2](./img/faire_simple_2-2.jpg)  
+![Sketchnote Simplicité 1 sur 2](img/faire_simple_1-2.jpg)  
+![Sketchnote Simplicité 2 sur 2](img/faire_simple_2-2.jpg)  
 
 
 # Comment merger sa PR en 10 secondes : REX mob code review

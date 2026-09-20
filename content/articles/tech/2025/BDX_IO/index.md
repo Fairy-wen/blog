@@ -31,8 +31,8 @@ Il nous présente quelques-un des enjeux principaux liés à l'évolution de l'I
 
 Une keynote intéressante, mais que j'aurais aimé voir aborder le coût humain/sociétal de l'IA en plus de l'aspect technologique (seul le coût "énergétique" a été abordé).  
 
-![Sketchnote de la Keynote, 1 sur 2](./img/BDX%20IO_1.png "Sketchnote de la Keynote, 1 sur 2")  
-![Sketchnote de la Keynote, 2 sur 2](./img/BDX%20IO_2.png "Sketchnote de la Keynote, 2 sur 2")  
+![Sketchnote de la Keynote, 1 sur 2](img/BDX%20IO_1.png "Sketchnote de la Keynote, 1 sur 2")  
+![Sketchnote de la Keynote, 2 sur 2](img/BDX%20IO_2.png "Sketchnote de la Keynote, 2 sur 2")  
 
 ## Biomimétisme et cybersécurité : s'inspirer de 3 milliards d'années d'évolution pour mieux se protéger
 _Format conférence 45 minutes_
@@ -45,8 +45,8 @@ J'ai trouvé le sujet intéressant et bien construit, avec un bon équilibre ent
 
 Un seul point m'a fait "tiquer", l'utilisation du terme _honeypot_ qui dans mes souvenirs de sécurité réseau/système désigne plutôt un leurre que l'on va volontairement laisser "vulnérable" pour détecter les comportements frauduleux. Dans l'exemple de Ludovic, il s'agit davantage d'identifier les cibles "favorites" pour les surveiller et protéger davantage.
 
-![Sketchnote Biomimétisme et cybersécurité, 1 sur 2](./img/BDX%20IO_3.png "Sketchnote Biomimétisme et cybersécurité, 1 sur 2")  
-![Sketchnote Biomimétisme et cybersécurité, 2 sur 2](./img/BDX%20IO_4.png "Sketchnote Biomimétisme et cybersécurité, 2 sur 2")  
+![Sketchnote Biomimétisme et cybersécurité, 1 sur 2](img/BDX%20IO_3.png "Sketchnote Biomimétisme et cybersécurité, 1 sur 2")  
+![Sketchnote Biomimétisme et cybersécurité, 2 sur 2](img/BDX%20IO_4.png "Sketchnote Biomimétisme et cybersécurité, 2 sur 2")  
 
 ## Leadership inclusif, les 5 micro-pratiques pour transformer vos dynamiques d'équipe
 _Format lightening 15 minutes_
@@ -56,7 +56,7 @@ _Format lightening 15 minutes_
 Dernier sujet auquel j'ai assisté avant la pause déjeuner, un _lightening_ présentant 5 ensembles de pratiques à mettre en place au quotidien afin de favoriser l'inclusion et réduire les discriminations (quelles qu'elles soient) au sein de nos équipes.  
 J'ai beaucoup apprécié cette présentation, on ressort avec une cheat-sheet prête à être affichée dans son bureau, voyez plutôt ! 👇
 
-![Sketchnote Leadership inclusif](./img/BDX%20IO_6.png "Sketchnote Leadership inclusif")
+![Sketchnote Leadership inclusif](img/BDX%20IO_6.png "Sketchnote Leadership inclusif")
 
 ## Quête de goodies et pause déjeuner
 
@@ -65,9 +65,9 @@ Un fois 5 tampons récupérés, j'ai pu tirer au sort un numéro dans le coffre 
 
 Par ailleurs le buffet servi à midi était très bon, varié et copieux, idéal pour ~~la sieste~~ le reste de la journée.  
 
-![Photo du billet conférence tamponné plusieurs fois, tenu à la main devant un coffre au trésor](./img/badge_tampons.jpg "Le badge d'entrée tamponné")  
+![Photo du billet conférence tamponné plusieurs fois, tenu à la main devant un coffre au trésor](img/badge_tampons.jpg "Le badge d'entrée tamponné")  
 
-![Photos de goodies posés sur une table : une peluche bleue en forme d'axolotl, un Rubik's cube, des balles anti-stress et des stickers](./img/goodies_sponsors.jpg "Les goodies récupérés sur les stands sponsors")  
+![Photos de goodies posés sur une table : une peluche bleue en forme d'axolotl, un Rubik's cube, des balles anti-stress et des stickers](img/goodies_sponsors.jpg "Les goodies récupérés sur les stands sponsors")  
 
 
 ## Défi : L’accessibilité au bout des doigts !
@@ -101,8 +101,8 @@ En bref, rien n'est tout blanc ou tout noir...
 
 Les références du talk sont [sur cette page](https://drive.google.com/file/d/1q4ok2iDis_p92-hzI7v50-A-4wTyp9PI/view?usp=drivesdk).  
 
-![Sketchnote Pseudoscience pour mon (pseudo) management, 1 sur 2](./img/BDX%20IO_7.png "Sketchnote Pseudoscience pour mon (pseudo) management, 1 sur 2")  
-![Sketchnote Pseudoscience pour mon (pseudo) management, 2 sur 2](./img/BDX%20IO_8.png "Sketchnote Pseudoscience pour mon (pseudo) management, 2 sur 2")  
+![Sketchnote Pseudoscience pour mon (pseudo) management, 1 sur 2](img/BDX%20IO_7.png "Sketchnote Pseudoscience pour mon (pseudo) management, 1 sur 2")  
+![Sketchnote Pseudoscience pour mon (pseudo) management, 2 sur 2](img/BDX%20IO_8.png "Sketchnote Pseudoscience pour mon (pseudo) management, 2 sur 2")  
 
 ## T'as vu mes docs ? Je les fais en Typst !
 _Format lightening 15 minutes_
@@ -127,9 +127,9 @@ La soirée fut également très agréable, même si je suis rentrée assez tôt 
 Je suis ravie d'avoir pu participer à ce BDX I/O 2025. J'ai encore une fois fait de super rencontres, et ai pu apprendre de nouvelles choses.  
 L'équipe d'organisation était aux petits soins, je les remercie énormément !  
 Nous avons d'ailleurs été gâtés avec un super t-shirt souvenir comportant les noms de toustes les speakers de cette édition, ainsi qu'un petit lego tout mignon qui trône désormais sur mon bureau.  
-![Photo d'un t-shirt "Speaker BDX I/O" comportant un dessin festif et les noms de tous les speakers de l'édition. Posés dessus, un lego représentant une speakeuse BDX I/O, et un petit agenda 2026.](./img/goodies_speaker.jpg "Photo des goodies speaker")  
+![Photo d'un t-shirt "Speaker BDX I/O" comportant un dessin festif et les noms de tous les speakers de l'édition. Posés dessus, un lego représentant une speakeuse BDX I/O, et un petit agenda 2026.](img/goodies_speaker.jpg "Photo des goodies speaker")  
 
 Une pensée aussi pour les mini-canelés de [La Toque Cuivrée](https://www.la-toque-cuivree.fr/) qui nous attendaient en salle speaker, ils étaient délicieux !  
-![Photo de la boîte de canelés ouverte, remplie de petits canelés de Bordeaux](./img/caneles.jpg "Photo de la boîte de canelés")  
+![Photo de la boîte de canelés ouverte, remplie de petits canelés de Bordeaux](img/caneles.jpg "Photo de la boîte de canelés")  
 
 A bientôt Bordeaux !

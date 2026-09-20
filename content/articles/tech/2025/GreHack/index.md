@@ -26,11 +26,11 @@ Cette première présentation pourrait faire office de keynote en conférence, t
 
 Créativité, diversité des champs d'attaque, un cas d'école qu'il faudrait montrer aux équipes de dev pour leur découvrir ce que sont réellement les failles de sécurité, comment elles sont découvertes et exploitées.
 
-![CTF in a box, Sketchnote 1 sur 5](./img/GreHack%202025_1.png "CTF in a box, Sketchnote 1 sur 5")  
-![CTF in a box, Sketchnote 2 sur 5](./img/GreHack%202025_2.png "CTF in a box, Sketchnote 2 sur 5")  
-![CTF in a box, Sketchnote 3 sur 5](./img/GreHack%202025_3.png "CTF in a box, Sketchnote 3 sur 5")  
-![CTF in a box, Sketchnote 4 sur 5](./img/GreHack%202025_4.png "CTF in a box, Sketchnote 4 sur 5")  
-![CTF in a box, Sketchnote 5 sur 5](./img/GreHack%202025_5.png "CTF in a box, Sketchnote 5 sur 5")  
+![CTF in a box, Sketchnote 1 sur 5](img/GreHack%202025_1.png "CTF in a box, Sketchnote 1 sur 5")  
+![CTF in a box, Sketchnote 2 sur 5](img/GreHack%202025_2.png "CTF in a box, Sketchnote 2 sur 5")  
+![CTF in a box, Sketchnote 3 sur 5](img/GreHack%202025_3.png "CTF in a box, Sketchnote 3 sur 5")  
+![CTF in a box, Sketchnote 4 sur 5](img/GreHack%202025_4.png "CTF in a box, Sketchnote 4 sur 5")  
+![CTF in a box, Sketchnote 5 sur 5](img/GreHack%202025_5.png "CTF in a box, Sketchnote 5 sur 5")  
 
 ## Adobe and SAP: All Your Business Documents Belong To Us
 [Yvan Genuer](https://www.linkedin.com/in/1ggy/) and [Fabian Hagg](https://www.linkedin.com/in/fabian-hagg-015b00190/)  
@@ -43,9 +43,9 @@ Cette présentation a notamment montré comment un protocole de communication pr
 Et en conclusion : toujours appliquer les mises à jour de sécurité qui justement corrigent ce type de vulnérabilités...
 
 
-![Adobe and SAP, Sketchnote 1 sur 3](./img/GreHack%202025_6.png "Adobe and SAP, Sketchnote 1 sur 3")  
-![Adobe and SAP, Sketchnote 2 sur 3](./img/GreHack%202025_7.png "Adobe and SAP, Sketchnote 2 sur 3")  
-![Adobe and SAP, Sketchnote 3 sur 3](./img/GreHack%202025_8.png "Adobe and SAP, Sketchnote 3 sur 3")  
+![Adobe and SAP, Sketchnote 1 sur 3](img/GreHack%202025_6.png "Adobe and SAP, Sketchnote 1 sur 3")  
+![Adobe and SAP, Sketchnote 2 sur 3](img/GreHack%202025_7.png "Adobe and SAP, Sketchnote 2 sur 3")  
+![Adobe and SAP, Sketchnote 3 sur 3](img/GreHack%202025_8.png "Adobe and SAP, Sketchnote 3 sur 3")  
 
 
 ## One does not simply walk into a building... or do they?
@@ -82,8 +82,8 @@ La fatigue commençant à pointer le bout de son nez, j'ai principalement pris d
 
 TL;DR : Aymeric est parvenu à exécuter du code sur le chargeur.  
 
-![Smart car-chargers, Sketchnote 1 sur 2](./img/GreHack%202025_9.png "Smart car-chargers, Sketchnote 1 sur 2")  
-![Smart car-chargers, Sketchnote 2 sur 2](./img/GreHack%202025_10.png "Smart car-chargers, Sketchnote 2 sur 2")  
+![Smart car-chargers, Sketchnote 1 sur 2](img/GreHack%202025_9.png "Smart car-chargers, Sketchnote 1 sur 2")  
+![Smart car-chargers, Sketchnote 2 sur 2](img/GreHack%202025_10.png "Smart car-chargers, Sketchnote 2 sur 2")  
 
 
 ## Exploring Browser Permissions and Exploiting Permission Hijacking
@@ -98,8 +98,8 @@ Encore une fois, les vulnérabilités présentées ici ont été signalées aux 
 
 Voici les sketchnotes, dernières que j'ai prises lors de la conférence.  
 
-![Browser permissions, Sketchnote 1 sur 2](./img/GreHack%202025_11.png "Browser permissions, Sketchnote 1 sur 2")  
-![Browser permissions, Sketchnote 2 sur 2](./img/GreHack%202025_12.png "Browser permissions, Sketchnote 2 sur 2")  
+![Browser permissions, Sketchnote 1 sur 2](img/GreHack%202025_11.png "Browser permissions, Sketchnote 1 sur 2")  
+![Browser permissions, Sketchnote 2 sur 2](img/GreHack%202025_12.png "Browser permissions, Sketchnote 2 sur 2")  
 
 ## Channel Binding with MSSQL: A Deep Dive into TDS, NTLM and STARTTLS Madness  
 [Aurélien Chalot](https://www.linkedin.com/in/aurelienchalotinc/?originalSubdomain=fr)  

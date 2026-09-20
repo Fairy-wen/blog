@@ -24,16 +24,16 @@ Il évoque également la mise en opposition qu'il peut y avoir entre les adeptes
 
 Claude Aubry a mis à disposition ses supports sur son site que vous pouvez retrouver [ici](https://claudeaubry.fr/series/decroissance/).
 
-![L'Agilité de la décroissance 1 sur 4](./img/agilite_decroissance_1-4.jpg)  
+![L'Agilité de la décroissance 1 sur 4](img/agilite_decroissance_1-4.jpg)  
 *L'Agilité de la décroissance, sketchnote 1 sur 4*
 
-![L'Agilité de la décroissance 2 sur 4](./img/agilite_decroissance_2-4.jpg)  
+![L'Agilité de la décroissance 2 sur 4](img/agilite_decroissance_2-4.jpg)  
 *L'Agilité de la décroissance, sketchnote 2 sur 4*
 
-![L'Agilité de la décroissance 3 sur 4](./img/agilite_decroissance_3-4.jpg)  
+![L'Agilité de la décroissance 3 sur 4](img/agilite_decroissance_3-4.jpg)  
 *L'Agilité de la décroissance, sketchnote 3 sur 4*
 
-![L'Agilité de la décroissance 4 sur 4](./img/agilite_decroissance_4-4.jpg)  
+![L'Agilité de la décroissance 4 sur 4](img/agilite_decroissance_4-4.jpg)  
 *L'Agilité de la décroissance, sketchnote 4 sur 4*
 
 ## PO : Evitez la feuille blanche !
@@ -43,13 +43,13 @@ Claude Aubry a mis à disposition ses supports sur son site que vous pouvez retr
 Plus tard dans la matinée, j'ai assisté à la présentation donnée par Vincent Feugier et Fabien Joseph qui nous ont donné quelques astuces et outils pour aider à la rédaction des _user stories_.  
 Ils ont mis à disposition un workflow [juste ici](https://drive.google.com/file/d/1rOIe81ZB7s38ySXQnuH_V3nfkoY-xi65/view).  
 
-![PO : évitez la feuille blanche 1 sur 3](./img/po_feuille_blanche_1-3.jpg)  
+![PO : évitez la feuille blanche 1 sur 3](img/po_feuille_blanche_1-3.jpg)  
 *PO : évitez la feuille blanche, sketchnote 1 sur 3*
 
-![PO : évitez la feuille blanche 2 sur 3](./img/po_feuille_blanche_2-3.jpg)  
+![PO : évitez la feuille blanche 2 sur 3](img/po_feuille_blanche_2-3.jpg)  
 *PO : évitez la feuille blanche, sketchnote 2 sur 3*
 
-![PO : évitez la feuille blanche 3 sur 3](./img/po_feuille_blanche_3-3.jpg)  
+![PO : évitez la feuille blanche 3 sur 3](img/po_feuille_blanche_3-3.jpg)  
 *PO : évitez la feuille blanche, sketchnote 3 sur 3*
 
 ## Keynote : Un attribut prédictif de succès des transformations : la sécurité psychologique
@@ -61,13 +61,13 @@ Et comme pour beaucoup d'autres problèmes que l'on peut rencontrer dans notre v
 
 Ses slides sont disponibles [ici](https://drive.google.com/file/d/1HB5lcLZz6-45EX59k6KqPxlbipGS_zrq/view).  
 
-![La sécurité psychologique 1 sur 3](./img/secu_psycho_1-3.jpg)  
+![La sécurité psychologique 1 sur 3](img/secu_psycho_1-3.jpg)  
 *La sécurité psychologique, sketchnote 1 sur 3*
 
-![La sécurité psychologique 2 sur 3](./img/secu_psycho_2-3.jpg)  
+![La sécurité psychologique 2 sur 3](img/secu_psycho_2-3.jpg)  
 *La sécurité psychologique, sketchnote 2 sur 3*
 
-![La sécurité psychologique 3 sur 3](./img/secu_psycho_3-3.jpg)  
+![La sécurité psychologique 3 sur 3](img/secu_psycho_3-3.jpg)  
 *La sécurité psychologique, sketchnote 3 sur 3*
 
 
@@ -88,10 +88,10 @@ Ses slides sont disponibles [ici](https://drive.google.com/file/d/1mMozbTQXFx8qk
 
 Toujours mercredi après-midi, Yvan Dantec et Jérôme Froville nous ont parlé des différentes façons de prendre des décisions, par le biais de l'aventure d'une équipe d'astronautes coupés du reste de la civilisation. J'y ai découvert les différences entre consentement, consensus, unanimité (et quand préférer un objectif plutôt qu'un autre), ainsi que différentes méthodes de décision.  
 
-![Comment décider 1 sur 2](./img/comment_decider_1-2.jpg)  
+![Comment décider 1 sur 2](img/comment_decider_1-2.jpg)  
 *Comment décider, sketchnote 1 sur 2*
 
-![Comment décider 2 sur 2](./img/comment_decider_2-2.jpg)  
+![Comment décider 2 sur 2](img/comment_decider_2-2.jpg)  
 *Comment décider, sketchnote 2 sur *
 
 # Jeudi 23 novembre
@@ -109,10 +109,10 @@ Et si certes certains métiers risquent disparaître, d'autres apparaîtront, co
 Nous avons pu voir le résultat produit par ChatDev, avec le prompt de tous les échanges entre les différentes entités simulées (dev, test, archi...).  
 En terme de coût pour ce développement, cela représentait une dépense de moins de 1$, remettant en cause toute l'économie actuelle de l'IT. En revanche le "vrai" coût sociétal et environnemental est lui tout autre...
 
-![Le futur de l'IA 1 sur 2](./img/futur_IA_1-2.jpg)  
+![Le futur de l'IA 1 sur 2](img/futur_IA_1-2.jpg)  
 *Le futur de l'IA, sketchnote 1 sur 2*
 
-![Le futur de l'IA 2 sur 2](./img/futur_IA_2-2.jpg)  
+![Le futur de l'IA 2 sur 2](img/futur_IA_2-2.jpg)  
 *Le futur de l'IA, sketchnote 2 sur 2*
 
 ## Découper ses _user stories_
@@ -125,13 +125,13 @@ Nous avons revu les bases de la définition d'une _user story_, quels critères 
 Ses slides sont disponibles [ici](https://drive.google.com/file/d/1i8g893PYiV22ZnEjVBkw0IFasOzO8Peg/view).  
 Le split poker est disponible [ici](https://www.neosoft.fr/nos-publications/livres-blancs/split-poker-decoupage-fonctionnel-serious-game/).  
 
-![Bien découper ses _user stories_ 1 sur 3](./img/ecrire_bonnes_US_1-3.jpg)  
+![Bien découper ses _user stories_ 1 sur 3](img/ecrire_bonnes_US_1-3.jpg)  
 *Bien découper ses _user stories_, sketchnote 1 sur 3*
 
-![Bien découper ses _user stories_ 2 sur 3](./img/ecrire_bonnes_US_2-3.jpg)  
+![Bien découper ses _user stories_ 2 sur 3](img/ecrire_bonnes_US_2-3.jpg)  
 *Bien découper ses _user stories_, sketchnote 2 sur 3*
 
-![Bien découper ses _user stories_ 3 sur 3](./img/ecrire_bonnes_US_3-3.jpg)  
+![Bien découper ses _user stories_ 3 sur 3](img/ecrire_bonnes_US_3-3.jpg)  
 *Bien découper ses _user stories_, sketchnote 3 sur 3*
 
 ## Rôles agiles : quand les périmètres s'emmêlent, tout dérape !
@@ -144,10 +144,10 @@ Encore une fois, ce que j'en retiens c'est que la clé c'est le dialogue, l'entr
 
 Les slides sont disponibles [ici](https://drive.google.com/file/d/1Ex9Y8d-2_EzNC0hGLhgtr7ItA9wdkKOi/view).
 
-![Quand les rôles s'emmêlent 1 sur 2](./img/roles_emmeles_1-2.jpg)  
+![Quand les rôles s'emmêlent 1 sur 2](img/roles_emmeles_1-2.jpg)  
 *Quand les rôles s'emmêlent, sketchnote 1 sur 2*
 
-![Quand les rôles s'emmêlent 2 sur 2](./img/roles_emmeles_2-2.jpg)  
+![Quand les rôles s'emmêlent 2 sur 2](img/roles_emmeles_2-2.jpg)  
 *Quand les rôles s'emmêlent, sketchnote 2 sur 2*
 
 ## Keynote : Je suis juste humain
@@ -158,7 +158,7 @@ La dernière keynote est présentée par Benjamin Cabanne, qui nous a rappelé e
 Nous ne sommes pas infaillibles, nous sommes composés de plusieurs facettes, nous nous élevons dans nos interactions avec les autres, nous avons besoin les uns des autres.  
 Et quand chacun peut exprimer sereinement ses besoin et ses peurs au lieu de chercher à avoir absolument raison, alors c'est à ce moment-là que nous pouvons avancer et petit à petit construire une équipe.  
 
-![Je suis juste humain](./img/juste_humain.jpg)  
+![Je suis juste humain](img/juste_humain.jpg)  
 *Je suis juste humain, sketchnote*
 
 ## Mon petit fail : libère ta créature et embrasse tes bizarreries
@@ -182,10 +182,10 @@ Nous avons vu quelques outils et formules de calcul permettant d'obtenir ces inf
 
 Ses slides sont disponibles [ici](https://drive.google.com/file/d/18R4c0N6KOsJ1tco9ZopHWwzIr-tX_rp-/view).  
 
-![Nous n'estimons plus et tout va bien 1 sur 2](./img/zero_estimation_1-2.jpg)  
+![Nous n'estimons plus et tout va bien 1 sur 2](img/zero_estimation_1-2.jpg)  
 *Nous n'estimons plus et tout va bien, sketchnotes 1 sur 2*
 
-![Nous n'estimons plus et tout va bien 2 sur 2](./img/zero_estimation_2-2.jpg)  
+![Nous n'estimons plus et tout va bien 2 sur 2](img/zero_estimation_2-2.jpg)  
 *Nous n'estimons plus et tout va bien, sketchnotes 2 sur 2*
 
 ## Antidette

@@ -16,14 +16,14 @@ Il s'agit pour moi d'une 4ème participation à une conférence en tant qu'inter
 Comme souvent lors des conférences, une soirée "speakers" est prévue le mercredi soir par les organisateurs.  
 J'arrive donc sur place en tout début de soirée, et rejoins les troupes au bar "The Salvation Jane", dans le vieux Clermont à quelques pas de la cathédrale Notre-Dame de l'Assomption.  
 
-![Cathédrale](./img/cathedrale.jpg)  
+![Cathédrale](img/cathedrale.jpg)  
 *La cathédrale Notre-Dame de l'Assomption*
 
 J'y retrouve avec plaisir des speakers déjà rencontrés sur d'autres conférences comme Olivier Poncet, Yannick Guern, Marie-Laure Momplot, Elaine Dias Batista, David Aparicio, Rémy Verchère entre autres.
 
 # Jeudi 12 octobre
 
-![Introduction du Volcamp](./img/intro_volcamp.jpg)  
+![Introduction du Volcamp](img/intro_volcamp.jpg)  
 *Photo de la salle de conférence durant l'introduction*
 
 ## Keynote
@@ -42,7 +42,7 @@ Il est même allé plus loin que ça dans sa démarche puisque pour s'en équipe
 Je ne sais pas si je passerai le cap prochainement, mais c'était une belle découverte.  
 Pas de sketchnote sur ce sujet, mais voici une petite photo.  
 
-![Talk construire son clavier mécanique](./img/talk_clavier_meca.jpg)  
+![Talk construire son clavier mécanique](img/talk_clavier_meca.jpg)  
 *Photo de Benjamin Legrand durant son talk*
 
 ## Comment tester efficacement vos applicatifs d'intelligence artificielle ?
@@ -54,10 +54,10 @@ Je découvre également qu'un modèle peut devenir obsolète si la distribution 
 
 Les sketchnotes que j'ai prises sont ci-dessous.  
 
-![Tester une IA 1 sur 2](./img/test_applis_IA_1-2.jpg)  
+![Tester une IA 1 sur 2](img/test_applis_IA_1-2.jpg)  
 *Sketchnote numéro 1 sur les tests d'IA*
 
-![Tester une IA 2 sur 2](./img/test_applis_IA_2-2.jpg)  
+![Tester une IA 2 sur 2](img/test_applis_IA_2-2.jpg)  
 *Sketchnote numéro 2 sur les tests d'IA*
 
 ## Pause déjeuner
@@ -65,7 +65,7 @@ Les sketchnotes que j'ai prises sont ci-dessous.
 Au Volcamp, la pause déjeuner c'est du sérieux ! Le jeudi midi nous avons droit à de la truffade, un plat auvergnat à base de pommes de terre, ail et tome fraîche.  
 Autant dire qu'après un bon café s'impose pour rester alerte !
 
-![Truffade](./img/truffade.jpg)
+![Truffade](img/truffade.jpg)
 *Assiette de truffade et quelques accompagnements*
 
 ## Monorepo et Monomythe
@@ -77,16 +77,16 @@ Ce concept du monorepo peut avoir du sens en fonction du contexte, mais ce que j
 
 Mes sketchnotes :  
 
-![Monorepo et MonoMythe 1 sur 4](./img/monorepo_monomythe_1-4.jpg)  
+![Monorepo et MonoMythe 1 sur 4](img/monorepo_monomythe_1-4.jpg)  
 *Sketchnote numéro 1 sur le monorepo*
 
-![Monorepo et MonoMythe 2 sur 4](./img/monorepo_monomythe_2-4.jpg)  
+![Monorepo et MonoMythe 2 sur 4](img/monorepo_monomythe_2-4.jpg)  
 *Sketchnote numéro 2 sur le monorepo*
 
-![Monorepo et MonoMythe 3 sur 4](./img/monorepo_monomythe_3-4.jpg)  
+![Monorepo et MonoMythe 3 sur 4](img/monorepo_monomythe_3-4.jpg)  
 *Sketchnote numéro 3 sur le monorepo*
 
-![Monorepo et MonoMythe 4 sur 4](./img/monorepo_monomythe_4-4.jpg)  
+![Monorepo et MonoMythe 4 sur 4](img/monorepo_monomythe_4-4.jpg)  
 *Sketchnote numéro 4 sur le monorepo*
 
 ## Agiliser sans parler Agile
@@ -99,10 +99,10 @@ Une fois données les clés pour avancer, Elizabeth a pu s'éclipser et laisser 
 
 Les sketchnotes, qui portent davantage sur l'agilité au sens large que sur la mission en question :  
 
-![Agiliser 1 sur 2](./img/agiliser_1-2.jpg)  
+![Agiliser 1 sur 2](img/agiliser_1-2.jpg)  
 *Sketchnote numéro 1 sur l'agilisation*
 
-![Agiliser 2 sur 2](./img/agiliser_2-2.jpg)  
+![Agiliser 2 sur 2](img/agiliser_2-2.jpg)  
 *Sketchnote numéro 2 sur l'agilisation*
 
 ## Elles bougent
@@ -124,7 +124,7 @@ La keynote du vendredi est présentée par Gérald Sadde, avocat spécialisé da
 Il nous a parlé de "l'après RGPD", à quoi nous attendre en matière de droit européen sur le numérique.  
 Le tout avec une certaine dose d'humour et juste ce qu'il faut d'ironie !  
 
-![Keynote vendredi](./img/keynote_vendredi.jpg)  
+![Keynote vendredi](img/keynote_vendredi.jpg)  
 *Photo de la keynote du vendredi*
 
 ## Le Zenikasino
@@ -133,10 +133,10 @@ Avant d'aller répéter une dernière fois mon talk, je passe au stand Zenika po
 Une chose est sûre, on ne risque pas de manquer le stand, puisqu'ils ont créé un décor façon casino, et les animateurs sont en costume !  
 Je tente ma chance avec le numéro 13 à la roulette, et remporte une participation au tirage au sort pour une PlayStation 5. De quoi avoir la pêche pour le reste de la matinée 🤩 (et oui j'ai été tirée au sort en début d'après-midi, je suis donc repartie avec la console !).
 
-![Zenikasino 1 sur 2](./img/zenikasino_1-2.jpg)  
+![Zenikasino 1 sur 2](img/zenikasino_1-2.jpg)  
 *Photo du jeu de roulette sur le numéro 13*
 
-![Zenikasino 2 sur 2](./img/zenikasino_2-2.jpg)  
+![Zenikasino 2 sur 2](img/zenikasino_2-2.jpg)  
 *Photo des cartes à gratter*
 
 ## Quelques pistes pour soigner ses traces
@@ -189,7 +189,7 @@ Dans certains cas, par exemple un POC jetable qui doit être fait rapidement, il
 Dans une équipe de support qui ne peut pas prévoir à l'avance sa charge de travail, le Kanban pourrait être la meilleure option.  
 Encore une fois, tout dépend du contexte, la *silver bullet* n'existe pas !
 
-![Lego](./img/lego.jpg)
+![Lego](img/lego.jpg)
 *Quelques Lego assemblés durant l'atelier*
 
 ## Adoptez la clean archigonale
@@ -199,7 +199,7 @@ Encore une fois, tout dépend du contexte, la *silver bullet* n'existe pas !
 Ne me demandez pas pourquoi, j'ai choisi comme dernier talk à voir (de 16h45 à 17h30) celui de Christophe Breheret-Girardin qui parle de clean archigonale, ou comment allier l'architecture hexagonale à la clean architecture 🤯.  
 J'y étais vraiment en mode découverte, sans prétendre tout comprendre du sujet, mais plus pour savoir que ça existe, et garder ça dans un coin de ma tête pour l'avenir.
 
-![Talk Clean archigonale](./img/clean_archigonale.jpg)  
+![Talk Clean archigonale](img/clean_archigonale.jpg)  
 *Photo du talk sur la clean archigonale*
 
 # Pour conclure

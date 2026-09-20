@@ -59,7 +59,7 @@ Une formation somme toute assez courante et efficace pour du blues qui nous tran
 
 [https://www.facebook.com/people/The-Blue-Footed-Boobies/100059640285850/](https://www.facebook.com/people/The-Blue-Footed-Boobies/100059640285850/)
 
-![The Blue-Footed Boobies sur la scène](./img/blue_footed_boobies.jpg)
+![The Blue-Footed Boobies sur la scène](img/blue_footed_boobies.jpg)
 
 ## Cisco’s Blues & Beat Box Band
 
@@ -71,7 +71,7 @@ Un concert plein de découvertes donc 😀
 
 [https://www.facebook.com/ciscoherzhaftofficiel](https://www.facebook.com/ciscoherzhaftofficiel)
 
-![Cisco’s Blues & Beat Box Band sur la scène](./img/ciscos_b4.jpg)
+![Cisco’s Blues & Beat Box Band sur la scène](img/ciscos_b4.jpg)
 
 ## Michel Jonasz
 
@@ -83,7 +83,7 @@ Je suis ravie d'avoir eu l'occasion de voir ce spectacle !
 
 [https://www.micheljonasz.com/](https://www.micheljonasz.com/)
 
-![Michel Jonasz et ses musiciens sur la scène](./img/michel_jonasz.jpg)
+![Michel Jonasz et ses musiciens sur la scène](img/michel_jonasz.jpg)
 
 # Mercredi 5 juillet
 
@@ -97,7 +97,7 @@ Je retournerai le voir avec grand plaisir quand j'en aurai l'occasion !
 
 [https://www.nicowaynetoussaint.com/](https://www.nicowaynetoussaint.com/)
 
-![Nico Wayne Toussaint au Château de Cognac](./img/nico_wayne_toussaint.jpg)
+![Nico Wayne Toussaint au Château de Cognac](img/nico_wayne_toussaint.jpg)
 
 
 ## JP Bimeni 
@@ -152,7 +152,7 @@ Elles nous ont présenté un répertoire très varié, venant du plus profond de
 
 [https://ibeyimusic.com/](https://ibeyimusic.com/)
 
-![Le duo Ibeyi en train de chanter face à face sur scène](./img/ibeyi.jpg)
+![Le duo Ibeyi en train de chanter face à face sur scène](img/ibeyi.jpg)
 
 ## MC Solaar New Big Band Project
 
@@ -165,7 +165,7 @@ Bref, un retour 25 ans en arrière pour moi, et j'attends avec impatience la sor
 
 En attendant, le spectacle donné à la Philarmonie de Paris est disponible sur _arte CONCERT_ : [https://www.arte.tv/fr/videos/111708-000-A/mc-solaar-symphonique-a-la-philharmonie-de-paris/](https://www.arte.tv/fr/videos/111708-000-A/mc-solaar-symphonique-a-la-philharmonie-de-paris/)  
 
-![MC Solaar sur scène avec les choristes et l'orchestre qui l'accompagne](./img/mc_solaar.jpg)
+![MC Solaar sur scène avec les choristes et l'orchestre qui l'accompagne](img/mc_solaar.jpg)
 
 ## Liz Mandeville
 
@@ -176,7 +176,7 @@ Bref, une valeur sûre, et qui assure !
 
 [https://www.lizmandeville.net/](https://www.lizmandeville.net/)
 
-![Liz Mandeville sur scène avec ses musiciens](./img/liz_mandeville.jpg)
+![Liz Mandeville sur scène avec ses musiciens](img/liz_mandeville.jpg)
 
 # Vendredi 7 juillet
 
@@ -194,7 +194,7 @@ La voix chaleureuse d'Imany se mariait parfaitement avec le timbre des violoncel
 
 [https://imanymusic.com/](https://imanymusic.com/)
 
-![Photo d'Imany et ses violoncellistes sur la scène](./img/imany.jpg)
+![Photo d'Imany et ses violoncellistes sur la scène](img/imany.jpg)
 
 ## Electric Ladyland - _Hommage à Hendrix au féminin_
 
@@ -205,7 +205,7 @@ J'ai tout de même grandement apprécié la prestation !
 
 [https://zamoraprod.com/fr/artistes/electric-lady-land-hendrix-au-feminin](https://zamoraprod.com/fr/artistes/electric-lady-land-hendrix-au-feminin)
 
-![Le groupe Electric Ladyland sur scène](./img/electric_ladyland.jpg)
+![Le groupe Electric Ladyland sur scène](img/electric_ladyland.jpg)
 
 ## -M-
 
@@ -220,8 +220,8 @@ Et pas seulement parce que je suis une grande amatrice de son travail, mais auss
 Vivement la prochaine fois !  
 
 [https://labo-m.net/](https://labo-m.net/)  
-![-M- et Gail Ann sur scène chantant en duo](./img/m_gail.jpg)
-![-M- en contre-jour sur scène au début de son spectacle](./img/m.jpg)
+![-M- et Gail Ann sur scène chantant en duo](img/m_gail.jpg)
+![-M- en contre-jour sur scène au début de son spectacle](img/m.jpg)
 
 # Samedi 8 juillet
 

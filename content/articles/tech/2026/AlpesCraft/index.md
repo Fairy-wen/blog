@@ -30,8 +30,8 @@ J'ai trouvé là un parallèle intéressant avec notamment l'éducation des enfa
 La keynote n'a pas fait l'unanimité et je comprends pourquoi, d'ailleurs Emmanuel a bien conscience que son discours n'aura pas de sens pour une partie du public, _et c'est ok_.  
 Et je pense qu'on devrait se dire plus souvent _c'est ok_.
 
-![Keynote, sketchnote 1 sur 2](./img/AlpesCraft2026_1.png "Sketchnote 1 sur 2")
-![Keynote, sketchnote 2 sur 2](./img/AlpesCraft2026_2.png "Sketchnote 2 sur 2")
+![Keynote, sketchnote 1 sur 2](img/AlpesCraft2026_1.png "Sketchnote 1 sur 2")
+![Keynote, sketchnote 2 sur 2](img/AlpesCraft2026_2.png "Sketchnote 2 sur 2")
 
 ## Faire moins mais mieux
 
@@ -44,10 +44,10 @@ Nos pires ennemis ? Le téléphone portable et ses notifications (on peut dire l
 Chloé nous partage également quelques bonne pratiques pour mieux découper nos tâches et nos journées, et prioriser notre travail.  
 Je n'ai pas appris/découvert de choses autant que je l'espérais, notamment parce que la neauro-atypie et principalement la connaissance du TDAH fait que je suis déjà bien sensibilisée aux problèmes de distraction et de charge cognitive et des astuces/bonnes pratiques à notre disposition, mais j'ai tout de même appris 2-3 choses comme [l'arbre de décision de David Allen](https://des-livres-pour-changer-de-vie.com//wp-content/uploads/2008/11/gtd.jpg) ou ce qui fait un bon objectif.
 
-![Faire moins mais mieux, sketchnote 1 sur 4](./img/AlpesCraft2026_3.png "Faire moins mais mieux, sketchnote 1 sur 4")
-![Faire moins mais mieux, sketchnote 2 sur 4](./img/AlpesCraft2026_4.png "Faire moins mais mieux, sketchnote 2 sur 4")
-![Faire moins mais mieux, sketchnote 3 sur 4](./img/AlpesCraft2026_5.png "Faire moins mais mieux, sketchnote 3 sur 4")
-![Faire moins mais mieux, sketchnote 4 sur 4](./img/AlpesCraft2026_6.png "Faire moins mais mieux, sketchnote 4 sur 4")
+![Faire moins mais mieux, sketchnote 1 sur 4](img/AlpesCraft2026_3.png "Faire moins mais mieux, sketchnote 1 sur 4")
+![Faire moins mais mieux, sketchnote 2 sur 4](img/AlpesCraft2026_4.png "Faire moins mais mieux, sketchnote 2 sur 4")
+![Faire moins mais mieux, sketchnote 3 sur 4](img/AlpesCraft2026_5.png "Faire moins mais mieux, sketchnote 3 sur 4")
+![Faire moins mais mieux, sketchnote 4 sur 4](img/AlpesCraft2026_6.png "Faire moins mais mieux, sketchnote 4 sur 4")
 
 ## 7 minutes x 7 langages
 
@@ -84,7 +84,8 @@ Le défi pour cet atelier sketchnotes ? Trouver des petits cahiers ou feuilles, 
 
 Ca a été pour moi l'occasion de me rendre compte que j'arrivais désormais à organiser des choses "à la dernière minute", en connaissance de cause, me disant _"ok, j'aimerais faire ça, de quoi ai-je besoin et comment puis l'obtenir"_, là où par le passé je n'aurais probablement pas proposé cet atelier, ne l'ayant pas prévu à l'avance (et c'est assez plaisant !).
 
-Donner cet atelier m'a aussi rappelé les sketchnotes que j'avais faites grâce à [Manuella Chainot-Bataille](https://www.linkedin.com/in/mchainot-bataille/) qui avait proposé un atelier sketchnotes de vacances pendant 3 semaines [sur X](https://x.com/MChainotBatail/status/1550921575632879616?s=20) que je vous recommande. Je compte d'ailleurs rédiger un article pour partager mon expérience et quelques astuces à propos des sketchnotes.
+Donner cet atelier m'a aussi rappelé les sketchnotes que j'avais faites grâce à [Manuella Chainot-Bataille](https://www.linkedin.com/in/mchainot-bataille/) qui avait proposé un atelier sketchnotes de vacances pendant 3 semaines [sur X](https://x.com/MChainotBatail/status/1550921575632879616?s=20) que je vous recommande. Je compte d'ailleurs rédiger un article pour partager mon expérience et quelques astuces à propos des sketchnotes.  
+_[Edit 20/09/2026 : l'article [Sketchnotes 101](../../2026/sketchnotes) est disponible !]_  
 
 ![Photo de Virginie, de face à l'arrière plan, assise en train de présenter l'outil Typst à l'assistance que l'on voit de dos au premier plan. Sur le mur, l'écran d'ordinateur de Virginie est projeté.](https://lh3.googleusercontent.com/pw/AP1GczOmLhxwdZDUvOTU-L6ehK3SAfKvzYGfMZc9H5_PiWSlMoEP_2isGhPFyhl5_rOD-2hjlVMHwTKyQo3aCWdkZW2QX7-PMlHmNpSyqdwkKm2Ywnye3p5CuUGiXVENd_aduuy3K1qRRNTLhMLeJUuDBuUM=w2058-h1372-s-no-gm "Présentation de Typst")
 

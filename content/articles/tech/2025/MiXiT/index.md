@@ -25,9 +25,9 @@ Côté illustrations, cette année encore [Scribissimo](https://www.linkedin.com
 
 Voici les photos de quelques-unes de ses réalisations : 
 
-![Dessin d'Orane montrant Elon Musk disant qu'il ne fait pas de politique, aux côté de Trump. On voit aussi le logo du réseau social X manipulant un humain comme une marionnette](./img/no_politics.jpg "Illustration de la keynote de David Chavalarias à propos des risques des réseaux sociaux sur la démocratie.")  
+![Dessin d'Orane montrant Elon Musk disant qu'il ne fait pas de politique, aux côté de Trump. On voit aussi le logo du réseau social X manipulant un humain comme une marionnette](img/no_politics.jpg "Illustration de la keynote de David Chavalarias à propos des risques des réseaux sociaux sur la démocratie.")  
 
-![Dessin d'Orane reprenant les avantages clés de la semaine de 4 jours](./img/s4j_key.jpg "Illustration du talk sur la semaine de 4 jours.")
+![Dessin d'Orane reprenant les avantages clés de la semaine de 4 jours](img/s4j_key.jpg "Illustration du talk sur la semaine de 4 jours.")
 
 ## Comme une pommade sur le cœur : les crêpes
 
@@ -41,9 +41,9 @@ Et bien sûr, MiXiT ne serait pas MiXiT sans ses délicieuses crêpes qui embaum
 
 La première keynote est donnée par Olivier HAMANT, chercheur à l'INRAE. Il nous explique comment et pourquoi la performance ne peut pas être robuste, les dangers que cela représente pour notre monde actuel, et nous invite à changer notre axe de progrès vers davantage de robustesse.  
 
-![Performance vs robustesse, sketchnote 1 sur 3](./img/robustesse-1_3.png "Performance vs robustesse, sketchnote 1 sur 3")  
-![Performance vs robustesse, sketchnote 2 sur 3](./img/robustesse-2_3.png "Performance vs robustesse, sketchnote 2 sur 3")  
-![Performance vs robustesse, sketchnote 3 sur 3](./img/robustesse-3_3.png "Performance vs robustesse, sketchnote 3 sur 3")  
+![Performance vs robustesse, sketchnote 1 sur 3](img/robustesse-1_3.png "Performance vs robustesse, sketchnote 1 sur 3")  
+![Performance vs robustesse, sketchnote 2 sur 3](img/robustesse-2_3.png "Performance vs robustesse, sketchnote 2 sur 3")  
+![Performance vs robustesse, sketchnote 3 sur 3](img/robustesse-3_3.png "Performance vs robustesse, sketchnote 3 sur 3")  
 
 ## Au-delà des heures : la semaine de 4 jours comme levier d'égalité
 _Conférence 45 minutes_  
@@ -53,10 +53,10 @@ _Conférence 45 minutes_
 C'est probablement le talk que j'attendais le plus : comment et pourquoi la semaine de 4 jours s'avère être un puissant levier d'égalité au sein de l'entreprise.  
 En partant de la [roue des privilèges](https://rfnb.ca/informer/boite-a-outils/rfnb/roue-des-privileges) (ou roue des inégalités), elle nous explique comment le recours à la semaine de 4 jours peut réduire les inégalités au sein des différentes "catégories" de la roue, comme le handicap, l'éducation ou encore la santé mentale, **tout en étant bénéfique pour les entreprises**.  
 
-![La semaine de 4 jours, sketchnote 1 sur 4](./img/4_jours-1_4.png "La semaine de 4 jours, sketchnote 1 sur 4")  
-![La semaine de 4 jours, sketchnote 2 sur 4](./img/4_jours-2_4.png "La semaine de 4 jours, sketchnote 2 sur 4")  
-![La semaine de 4 jours, sketchnote 3 sur 4](./img/4_jours-3_4.png "La semaine de 4 jours, sketchnote 3 sur 4")  
-![La semaine de 4 jours, sketchnote 4 sur 4](./img/4_jours-4_4.png "La semaine de 4 jours, sketchnote 4 sur 4")  
+![La semaine de 4 jours, sketchnote 1 sur 4](img/4_jours-1_4.png "La semaine de 4 jours, sketchnote 1 sur 4")  
+![La semaine de 4 jours, sketchnote 2 sur 4](img/4_jours-2_4.png "La semaine de 4 jours, sketchnote 2 sur 4")  
+![La semaine de 4 jours, sketchnote 3 sur 4](img/4_jours-3_4.png "La semaine de 4 jours, sketchnote 3 sur 4")  
+![La semaine de 4 jours, sketchnote 4 sur 4](img/4_jours-4_4.png "La semaine de 4 jours, sketchnote 4 sur 4")  
 
 ## Création d'une pépinière de test, entre reconversion et handicap
 _Conférence 45 minutes_  
@@ -72,8 +72,8 @@ Entre formation technique, accompagnement humain, formation des équipes chez le
 
 J'espère que cette initiative se poursuivra encore longtemps, et pourra en inspirer bien d'autres !
 
-![Pépinière de tests, sketchnote 1 sur 2](./img/pepiniere_tests-1_2.png "Pépinière de tests, sketchnote 1 sur 2")  
-![Pépinière de tests, sketchnote 2 sur 2](./img/pepiniere_tests-2_2.png "Pépinière de tests, sketchnote 2 sur 2")  
+![Pépinière de tests, sketchnote 1 sur 2](img/pepiniere_tests-1_2.png "Pépinière de tests, sketchnote 1 sur 2")  
+![Pépinière de tests, sketchnote 2 sur 2](img/pepiniere_tests-2_2.png "Pépinière de tests, sketchnote 2 sur 2")  
 
 ## Keynote : Nos manières de compter
 _**Périls économiques, démocratiques et écologiques**_
@@ -83,8 +83,8 @@ _**Périls économiques, démocratiques et écologiques**_
 Pour la deuxième keynote de la journée, nous avons écouté la philosophe Valérie CHAROLLES au sujet des chiffres, des nombres, et de la façon dont ils peuvent être détournés pour biaiser notre perception des choses, et donc influencer nos prises de décision.  
 Pas toujours évident à suivre juste après la pause déjeuner, je l'ai perçue essentiellement comme une introduction à ce vaste sujet et son histoire, qui mérite notre attention.  
 
-![Nos manières de compter, sketchnote 1 sur 2](./img/compter-1_2.png "Nos manières de compter, sketchnote 1 sur 2")  
-![Nos manières de compter, sketchnote 2 sur 2](./img/compter-2_2.png "Nos manières de compter, sketchnote 2 sur 2")  
+![Nos manières de compter, sketchnote 1 sur 2](img/compter-1_2.png "Nos manières de compter, sketchnote 1 sur 2")  
+![Nos manières de compter, sketchnote 2 sur 2](img/compter-2_2.png "Nos manières de compter, sketchnote 2 sur 2")  
 
 ## Le langage inclusif : un levier d'engagement dans les équipes
 _Conférence 45 minutes_  
@@ -96,8 +96,8 @@ Déjà convaincue par ce sujet notamment grâce à [cette vidéo](https://youtu.
 J'ai bien fait, car j'ai découvert que les biais de représentation sont aussi observés dans les langues "non genrées" (par exemple en anglais, les noms de métiers sont les mêmes pour les hommes et les femmes), du fait des stéréotypes dans la société.  
 J'ai aussi découvert quelques moyens supplémentaires d'avoir une écriture inclusive, notamment l'adressage direct.  
 
-![Le langage inclusif, sketchnote 1 sur 2](./img/langage_inclusif-1_2.png "Le langage inclusif, sketchnote 1 sur 2")  
-![Le langage inclusif, sketchnote 2 sur 2](./img/langage_inclusif-2_2.png "Le langage inclusif, sketchnote 2 sur 2")  
+![Le langage inclusif, sketchnote 1 sur 2](img/langage_inclusif-1_2.png "Le langage inclusif, sketchnote 1 sur 2")  
+![Le langage inclusif, sketchnote 2 sur 2](img/langage_inclusif-2_2.png "Le langage inclusif, sketchnote 2 sur 2")  
 
 ## Medtech : transformons la santé par la data
 _Lightning 20 minutes_  
@@ -117,7 +117,7 @@ _Pas de sketchnote._
 Je suis assez mitigée concernant l'intervention de Geoffrey. J'ai trouvé qu'elle manquait de construction et l'ai ressentie davantage comme de "l'auto-promo" que comme une invitation au questionnement.  
 J'aurais aimé peut-être que les exemples de "détournement de concept/visuel" soient moins nombreux, mais mieux expliqués (pourquoi il a construit le visuel de telle ou telle façon, quels sont les mécanismes cognitifs derrière...). 
 
-![Design : Sabotage, Hacking et Politique](./img/design.png "Design : Sabotage, Hacking et Politique")  
+![Design : Sabotage, Hacking et Politique](img/design.png "Design : Sabotage, Hacking et Politique")  
 
 ## Soirée MiXiT à l'Hôtel de Ville
 
@@ -138,8 +138,8 @@ Durant ces 30 minutes, il nous a expliqué une partie des mécanismes de manipul
 
 Il a également présenté les "étapes" de transformation d'un régime ouvert (une démocratie saine), à un régime fermé (une dictature). Le constat fait froid dans le dos au sujet de la Russie et des USA, et l'on se sent tout petit dans cette bataille...  
 
-![Changer d'ère numérique, sketchnote 1 sur 2](./img/numerique_democratie-1_2.png "Changer d'ère numérique, sketchnote 1 sur 2")  
-![Changer d'ère numérique, sketchnote 2 sur 2](./img/numerique_democratie-2_2.png "Changer d'ère numérique, sketchnote 2 sur 2")  
+![Changer d'ère numérique, sketchnote 1 sur 2](img/numerique_democratie-1_2.png "Changer d'ère numérique, sketchnote 1 sur 2")  
+![Changer d'ère numérique, sketchnote 2 sur 2](img/numerique_democratie-2_2.png "Changer d'ère numérique, sketchnote 2 sur 2")  
 
 ## Highway to fail : l'histoire d'un échec prévisible
 _Conférence 45 minutes_
@@ -152,9 +152,9 @@ Elle nous a retracé l'histoire de ce projet de start-up dont l'échec était te
 Mais il y a des fois où l'on ne voit pas ces signes, et où l'attrait de la nouveauté nous fait oublier le reste. Après tout, nous restons des êtres vivants animés d'émotions et de désirs.  
 La force de ce talk est nous présenter ici ce qui aurait pu être évité, et nous donne des points de vigilance lorsque l'on entreprend.  
 
-![Highway to fail, sketchnote 1 sur 3](./img/highway_fail-1_3.png "Highway to fail, sketchnote 1 sur 3")  
-![Highway to fail, sketchnote 2 sur 3](./img/highway_fail-2_3.png "Highway to fail, sketchnote 2 sur 3")  
-![Highway to fail, sketchnote 3 sur 3](./img/highway_fail-3_3.png "Highway to fail, sketchnote 3 sur 3")  
+![Highway to fail, sketchnote 1 sur 3](img/highway_fail-1_3.png "Highway to fail, sketchnote 1 sur 3")  
+![Highway to fail, sketchnote 2 sur 3](img/highway_fail-2_3.png "Highway to fail, sketchnote 2 sur 3")  
+![Highway to fail, sketchnote 3 sur 3](img/highway_fail-3_3.png "Highway to fail, sketchnote 3 sur 3")  
 
 ## Un développeur sous couverture parmi les utilisateurs
 _Conférence 45 minutes_
@@ -164,9 +164,9 @@ _Conférence 45 minutes_
 Quand le développement logiciel rencontre le monde de la scierie, on obtient l'histoire d'Aurélien, qui s'est retrouvé à scier du bois pour sa mission de développement d'application.  
 Un contexte hors du commun, un retour à l'essentiel, où l'humain reste la clé.  
 
-![Un développeur sous couverture, sketchnote 1 sur 3](./img/dev_sous_couverture-1_3.png "Un développeur sous couverture, sketchnote 1 sur 3")  
-![Un développeur sous couverture, sketchnote 2 sur 3](./img/dev_sous_couverture-2_3.png "Un développeur sous couverture, sketchnote 2 sur 3")  
-![Un développeur sous couverture, sketchnote 3 sur 3](./img/dev_sous_couverture-3_3.png "Un développeur sous couverture, sketchnote 3 sur 3")  
+![Un développeur sous couverture, sketchnote 1 sur 3](img/dev_sous_couverture-1_3.png "Un développeur sous couverture, sketchnote 1 sur 3")  
+![Un développeur sous couverture, sketchnote 2 sur 3](img/dev_sous_couverture-2_3.png "Un développeur sous couverture, sketchnote 2 sur 3")  
+![Un développeur sous couverture, sketchnote 3 sur 3](img/dev_sous_couverture-3_3.png "Un développeur sous couverture, sketchnote 3 sur 3")  
 
 ## Les super-pouvoirs méconnus de Docker Desktop
 _Conférence 45 minutes_
@@ -177,8 +177,8 @@ _Conférence 45 minutes_
 Pour ce dernier talk, j'ai suivi la démo de Guillaume et Philippe au sujet de Docker Desktop.  
 Malgré leur soucis techniques, j'ai pu avoir un aperçu des possibilités de cet outil, et suis plutôt fière de ma sketchnote 🙂
 
-![Les supers pouvoirs de Docker Desktop, sketchnote 1 sur 2](./img/docker_desktop-1_2.png "Les supers pouvoirs de Docker Desktop, sketchnote 1 sur 2")  
-![Les supers pouvoirs de Docker Desktop, sketchnote 2 sur 2](./img/docker_desktop-2_2.png "Les supers pouvoirs de Docker Desktop, sketchnote 2 sur 2")  
+![Les supers pouvoirs de Docker Desktop, sketchnote 1 sur 2](img/docker_desktop-1_2.png "Les supers pouvoirs de Docker Desktop, sketchnote 1 sur 2")  
+![Les supers pouvoirs de Docker Desktop, sketchnote 2 sur 2](img/docker_desktop-2_2.png "Les supers pouvoirs de Docker Desktop, sketchnote 2 sur 2")  
 
 # Conclusion
 

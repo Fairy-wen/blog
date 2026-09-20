@@ -26,8 +26,8 @@ Et donc, ayant l'envie de pouvoir revenir régulièrement sur les idées évoqu�
 
 Vous pouvez retrouver l'épisode [sur Ausha](https://podcast.ausha.co/punkindev/s04e06-pierre-ammeloot-nous-parle-valeur-impact-entreprenariat), et les sketchnotes juste ici.
 
-![Sketchnote 1](./img/sktnote-1.png)  
-![Sketchnote 2](./img/sktnote-2.png)  
-![Sketchnote 3](./img/sktnote-3.png)  
-![Sketchnote 4](./img/sktnote-4.png)  
-![Sketchnote 5](./img/sktnote-5.png)  
+![Sketchnote 1](img/sktnote-1.png)  
+![Sketchnote 2](img/sktnote-2.png)  
+![Sketchnote 3](img/sktnote-3.png)  
+![Sketchnote 4](img/sktnote-4.png)  
+![Sketchnote 5](img/sktnote-5.png)  

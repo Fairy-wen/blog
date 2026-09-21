@@ -77,7 +77,8 @@ Le principal avantage que j'y trouve est le fait de pouvoir rapidement éditer l
 
 Enfin, le tracé est plus précis, mais pour cela je vous laisse mon astuce : zoomer sur la page et tracer "gros", les traits seront alors mieux lissés et plus propres plutôt que de faire de petits traits et dessins.  
 
-La principale limitation de ma tablette est le jeu de couleurs : il n'y en a que 16 et elles ressortent très "flashy" une fois l'image affichée sur ordinateur/téléphone (la technologie d'affichage de la tablette a pour effet de rendre les couleurs plus ternes que la réalité). Pour des sketchnotes et vu le tarif de la tablette par rapport à la concurrence ce n'est pas gênant, par contre pour du dessin plus élaboré ça le sera (de toutes façons pour du "vrai" dessin j'utilise mes feutres et crayons sur un vrai cahier 😄).
+La principale limitation de ma tablette est le jeu de couleurs : il n'y en a que 16 et elles ressortent très "flashy" une fois l'image affichée sur ordinateur/téléphone (la technologie d'affichage de la tablette a pour effet de rendre les couleurs plus ternes que la réalité). Pour des sketchnotes et vu le tarif de la tablette par rapport à la concurrence ce n'est pas gênant, par contre pour du dessin plus élaboré ça le sera (de toutes façons pour du "vrai" dessin j'utilise mes feutres et crayons sur un vrai cahier 😄).  
+_[Edit: cette limitation n'est pas du fait de la tablette mais de l'application native de prise de notes.]_
 
 ## Bonus
 
